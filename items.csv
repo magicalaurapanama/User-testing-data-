@@ -1,0 +1,1005 @@
+ProductID,Item Name,Brand,Category,Base Price,Description
+P0001,Great Value Whole Milk 1 gal,Great Value,Dairy,3.29,1 gallon whole milk
+P0002,Marketside Large Brown Eggs 12ct,Marketside,Dairy,2.49,12 large brown eggs
+P0003,Great Value White Sandwich Bread 20oz,Great Value,Bakery,1.48,White sandwich bread loaf
+P0004,Oscar Mayer Naturally Hardwood Smoked Bacon 16oz,Oscar Mayer,Meat,6.98,16oz smoked bacon
+P0005,Land O Lakes Salted Butter 16oz,Land O Lakes,Dairy,4.18,16oz salted butter sticks
+P0006,Great Value Shredded Mild Cheddar Cheese 8oz,Great Value,Dairy,2.22,8oz shredded cheddar cheese
+P0007,Tyson Boneless Skinless Chicken Breast 2.5lb,Tyson,Meat,7.99,2.5lb boneless chicken breast
+P0008,Marketside Gala Apples 3lb Bag,Marketside,Produce,3.97,3lb bag of Gala apples
+P0009,Great Value Russet Potatoes 5lb,Great Value,Produce,2.97,5lb bag russet potatoes
+P0010,Mainstays Bath Towel,Mainstays,Home Goods,4.97,Soft cotton bath towel
+P0011,Equate Invisible Solid Antiperspirant Deodorant 2.6oz,Equate,Personal Care,1.98,2.6oz deodorant stick
+P0012,Clorox Disinfecting Wipes Lemon 75ct,Clorox,Household,4.98,75-count lemon disinfecting wipes
+P0013,Great Value 100% Orange Juice 64oz,Great Value,Beverages,2.68,64oz orange juice
+P0014,Pepsi Cola Soda 12pk 12oz Cans,Pepsi,Beverages,5.98,12-pack Pepsi cans
+P0015,Great Value Macaroni & Cheese Dinner 7.25oz,Great Value,Pantry,0.43,7.25oz mac and cheese
+P0016,Huggies Snug & Dry Baby Diapers Size 3 32ct,Huggies,Baby,8.97,32-count baby diapers
+P0017,Crayola Colored Pencils 24ct,Crayola,School Supplies,3.47,24-count colored pencils
+P0018,Great Value Rising Crust Pepperoni Pizza 27.5oz,Great Value,Frozen,3.98,Frozen pepperoni pizza
+P0019,Colgate Total Whitening Toothpaste 4.8oz,Colgate,Personal Care,3.96,4.8oz toothpaste
+P0020,Mainstays Standard/Queen Pillow,Mainstays,Home Goods,5.88,Standard/Queen size pillow
+P0021,Marketside Bananas Bunch,Marketside,Produce,1.18,Bunch of bananas
+P0022,Arm & Hammer Clean Burst Laundry Detergent 144.5oz,Arm & Hammer,Household,8.98,144.5oz laundry detergent
+P0023,Great Value Black Beans 15.25oz,Great Value,Canned Goods,0.78,15.25oz can black beans
+P0024,Quaker Old Fashioned Oats 42oz,Quaker,Pantry,4.98,42oz oats canister
+P0025,Oscar Mayer Turkey Smoked Sausage 14oz,Oscar Mayer,Meat,3.24,14oz turkey sausage
+P0026,Marketside Strawberries 16oz,Marketside,Produce,2.24,16oz strawberries
+P0027,Great Value Creamy Peanut Butter 40oz,Great Value,Pantry,3.47,40oz creamy peanut butter
+P0028,Smucker's Strawberry Jam 20oz,Smucker's,Pantry,3.48,20oz strawberry jam
+P0029,Great Value Original Potato Chips 8oz,Great Value,Snacks,1.68,8oz potato chips
+P0030,Mainstays Plush Blanket,Mainstays,Home Goods,9.88,Plush throw blanket
+P0031,Great Value Large White Eggs 18ct,Great Value,Dairy,2.98,18 large white eggs
+P0032,Marketside Baby Carrots 16oz,Marketside,Produce,1.48,16oz baby carrots
+P0033,Great Value 2% Reduced Fat Milk 1 gal,Great Value,Dairy,3.19,1 gallon 2% milk
+P0034,Tyson Chicken Drumsticks 2.5lb,Tyson,Meat,4.97,2.5lb chicken drumsticks
+P0035,Oscar Mayer Classic Uncured Wieners 16oz,Oscar Mayer,Meat,2.98,16oz hot dogs
+P0036,Land O Lakes Unsalted Butter 16oz,Land O Lakes,Dairy,4.18,16oz unsalted butter
+P0037,Great Value Mozzarella String Cheese 12ct,Great Value,Dairy,3.28,12ct string cheese
+P0038,Marketside Red Seedless Grapes 2lb,Marketside,Produce,4.96,2lb red grapes
+P0039,Great Value Idaho Potatoes 10lb,Great Value,Produce,6.98,10lb Idaho potatoes
+P0040,Mainstays Microfiber Sheet Set,Mainstays,Home Goods,15.88,Queen microfiber sheet set
+P0041,Equate Moisturizing Body Wash 22oz,Equate,Personal Care,2.97,22oz body wash
+P0042,Clorox ToiletWand Disinfecting Refills 20ct,Clorox,Household,8.98,20ct toilet wand refills
+P0043,Great Value Apple Juice 64oz,Great Value,Beverages,1.98,64oz apple juice
+P0044,Coca-Cola Soda 12pk 12oz Cans,Coca-Cola,Beverages,5.98,12-pack Coca-Cola cans
+P0045,Great Value Spaghetti 16oz,Great Value,Pantry,1,16oz spaghetti pasta
+P0046,Pampers Sensitive Baby Wipes 192ct,Pampers,Baby,5.97,192ct baby wipes
+P0047,Crayola Washable Markers 10ct,Crayola,School Supplies,1.97,10-count markers
+P0048,Great Value Rising Crust Cheese Pizza 27.5oz,Great Value,Frozen,3.98,Frozen cheese pizza
+P0049,Colgate Max Fresh Toothpaste 6oz,Colgate,Personal Care,2.96,6oz toothpaste
+P0050,Mainstays Bed Pillow,Mainstays,Home Goods,3.97,Standard bed pillow
+P0051,Marketside Romaine Hearts 3ct,Marketside,Produce,2.98,3-count romaine hearts
+P0052,Arm & Hammer Baking Soda 16oz,Arm & Hammer,Pantry,0.98,16oz baking soda
+P0053,Great Value Canned Corn 15.25oz,Great Value,Canned Goods,0.5,15.25oz canned corn
+P0054,Quaker Chewy Granola Bars Variety Pack 18ct,Quaker,Snacks,3.98,18ct granola bars
+P0055,Oscar Mayer Deli Fresh Oven Roasted Turkey 9oz,Oscar Mayer,Meat,4.48,9oz deli turkey
+P0056,Marketside Blueberries 11oz,Marketside,Produce,3.47,11oz blueberries
+P0057,Great Value Crunchy Peanut Butter 40oz,Great Value,Pantry,3.47,40oz crunchy peanut butter
+P0058,Smucker's Natural Peanut Butter 26oz,Smucker's,Pantry,3.98,26oz natural peanut butter
+P0059,Great Value Wavy Potato Chips 8oz,Great Value,Snacks,1.68,8oz wavy potato chips
+P0060,Mainstays Fleece Throw Blanket,Mainstays,Home Goods,4.97,Fleece throw blanket
+P0061,Great Value Large Brown Eggs 18ct,Great Value,Dairy,3.28,18 large brown eggs
+P0062,Marketside Mini Sweet Peppers 16oz,Marketside,Produce,3.47,16oz mini sweet peppers
+P0063,Great Value Fat Free Milk 1 gal,Great Value,Dairy,3.19,1 gallon fat free milk
+P0064,Tyson Chicken Thighs 2.5lb,Tyson,Meat,4.97,2.5lb chicken thighs
+P0065,Oscar Mayer Center Cut Bacon 12oz,Oscar Mayer,Meat,6.98,12oz center cut bacon
+P0066,Land O Lakes Light Butter with Canola Oil 15oz,Land O Lakes,Dairy,2.98,15oz light butter
+P0067,Great Value Colby Jack Cheese Sticks 12ct,Great Value,Dairy,3.28,12ct cheese sticks
+P0068,Marketside Seedless Watermelon Quarter,Marketside,Produce,3.98,Quarter seedless watermelon
+P0069,Great Value Sweet Potatoes 3lb,Great Value,Produce,2.98,3lb sweet potatoes
+P0070,Mainstays 12-Piece Dinnerware Set,Mainstays,Home Goods,19.88,12-piece dinnerware set
+P0071,Equate Ultra Moisturizing Lotion 20.3oz,Equate,Personal Care,2.97,20.3oz moisturizing lotion
+P0072,Clorox Splash-Less Bleach 121oz,Clorox,Household,4.98,121oz bleach
+P0073,Great Value Cranberry Juice Cocktail 64oz,Great Value,Beverages,2.18,64oz cranberry juice
+P0074,Pepsi Zero Sugar 12pk 12oz Cans,Pepsi,Beverages,5.98,12-pack Pepsi Zero Sugar
+P0075,Great Value Penne Pasta 16oz,Great Value,Pantry,1,16oz penne pasta
+P0076,Huggies Natural Care Sensitive Baby Wipes 192ct,Huggies,Baby,5.97,192ct baby wipes
+P0077,Crayola Ultra-Clean Washable Markers 10ct,Crayola,School Supplies,2.97,10ct washable markers
+P0078,Great Value Thin Crust Pepperoni Pizza 14.05oz,Great Value,Frozen,2.78,Frozen pepperoni pizza
+P0079,Colgate Cavity Protection Toothpaste 6oz,Colgate,Personal Care,1.97,6oz toothpaste
+P0080,Mainstays Microfiber Pillow,Mainstays,Home Goods,4.88,Microfiber pillow
+P0081,Marketside Organic Baby Spinach 16oz,Marketside,Produce,4.98,16oz organic baby spinach
+P0082,Arm & Hammer Super Washing Soda 55oz,Arm & Hammer,Household,4.24,55oz washing soda
+P0083,Great Value Whole Kernel Corn 15.25oz,Great Value,Canned Goods,0.5,15.25oz whole kernel corn
+P0084,Quaker Rice Crisps Caramel 3.52oz,Quaker,Snacks,2.38,3.52oz caramel rice crisps
+P0085,Oscar Mayer Classic Bologna 16oz,Oscar Mayer,Meat,2.98,16oz bologna
+P0086,Marketside Red Onions 3lb Bag,Marketside,Produce,2.98,3lb bag red onions
+P0087,Great Value Natural Creamy Peanut Butter 40oz,Great Value,Pantry,3.47,40oz natural creamy peanut butter
+P0088,Smucker's Natural Strawberry Fruit Spread 17.25oz,Smucker's,Pantry,3.48,17.25oz fruit spread
+P0089,Great Value Rippled Potato Chips 8oz,Great Value,Snacks,1.68,8oz rippled potato chips
+P0090,Mainstays 8-Cube Organizer,Mainstays,Home Goods,44.88,8-cube storage organizer
+P0091,Great Value Large White Eggs 36ct,Great Value,Dairy,5.98,36 large white eggs
+P0092,Marketside Organic Grape Tomatoes 10oz,Marketside,Produce,2.98,10oz grape tomatoes
+P0093,Great Value Lactose Free Milk 0.5 gal,Great Value,Dairy,2.48,0.5 gallon lactose free milk
+P0094,Tyson Grilled & Ready Chicken Breast Strips 22oz,Tyson,Meat,7.98,22oz grilled chicken strips
+P0095,Oscar Mayer Honey Ham 16oz,Oscar Mayer,Meat,4.98,16oz honey ham
+P0096,Land O Lakes Whipped Butter 8oz,Land O Lakes,Dairy,2.98,8oz whipped butter
+P0097,Great Value Mild Cheddar Cheese Block 16oz,Great Value,Dairy,3.98,16oz cheddar cheese block
+P0098,Marketside Organic Blueberries 6oz,Marketside,Produce,3.98,6oz organic blueberries
+P0099,Great Value Yukon Gold Potatoes 5lb,Great Value,Produce,3.98,5lb Yukon Gold potatoes
+P0100,Mainstays 16-Piece Glassware Set,Mainstays,Home Goods,14.88,16-piece glassware set
+P0101,Equate Beauty Gentle Skin Cleanser 16oz,Equate,Personal Care,4.97,16oz skin cleanser
+P0102,Clorox Clean-Up All Purpose Cleaner 32oz,Clorox,Household,3.48,32oz all-purpose cleaner
+P0103,Great Value Pineapple Juice 46oz,Great Value,Beverages,2.18,46oz pineapple juice
+P0104,Coca-Cola Cherry Soda 12pk 12oz Cans,Coca-Cola,Beverages,5.98,12-pack cherry Coke cans
+P0105,Great Value Elbow Macaroni 16oz,Great Value,Pantry,1,16oz elbow macaroni
+P0106,Pampers Swaddlers Diapers Size 2 84ct,Pampers,Baby,24.94,84ct diapers
+P0107,Crayola Construction Paper 240 Sheets,Crayola,School Supplies,4.97,240 sheets construction paper
+P0108,Great Value Rising Crust Supreme Pizza 31.5oz,Great Value,Frozen,4.98,Frozen supreme pizza
+P0109,Colgate Optic White Toothpaste 3.2oz,Colgate,Personal Care,3.96,3.2oz whitening toothpaste
+P0110,Mainstays 5-Shelf Bookcase,Mainstays,Home Goods,29.88,5-shelf bookcase
+P0111,Marketside Organic Romaine Hearts 3ct,Marketside,Produce,3.98,3ct organic romaine hearts
+P0112,Arm & Hammer Odor Blasters Laundry Detergent 122.5oz,Arm & Hammer,Household,8.98,122.5oz detergent
+P0113,Great Value Cut Green Beans 14.5oz,Great Value,Canned Goods,0.5,14.5oz green beans
+P0114,Quaker Chewy Chocolate Chip Granola Bars 8ct,Quaker,Snacks,2.34,8ct chocolate chip granola bars
+P0115,Oscar Mayer Rotisserie Chicken Breast 9oz,Oscar Mayer,Meat,4.48,9oz deli chicken breast
+P0116,Marketside Organic Strawberries 16oz,Marketside,Produce,4.98,16oz organic strawberries
+P0117,Great Value Natural Crunchy Peanut Butter 16oz,Great Value,Pantry,2.22,16oz natural crunchy peanut butter
+P0118,Smucker's Concord Grape Jelly 32oz,Smucker's,Pantry,3.48,32oz grape jelly
+P0119,Great Value Sour Cream & Onion Potato Chips 8oz,Great Value,Snacks,1.68,8oz sour cream & onion chips
+P0120,Mainstays 3-Tier Rolling Cart,Mainstays,Home Goods,24.88,3-tier rolling storage cart
+P0121,Great Value Organic Large Brown Eggs 12ct,Great Value,Dairy,3.98,12ct organic brown eggs
+P0122,Marketside Organic Baby Carrots 16oz,Marketside,Produce,2.98,16oz organic baby carrots
+P0123,Great Value 1% Low Fat Milk 1 gal,Great Value,Dairy,3.19,1 gallon 1% milk
+P0124,Tyson Chicken Wing Sections 4lb,Tyson,Meat,11.98,4lb chicken wings
+P0125,Oscar Mayer Thick Cut Bacon 16oz,Oscar Mayer,Meat,7.98,16oz thick cut bacon
+P0126,Land O Lakes Butter with Olive Oil & Sea Salt 13oz,Land O Lakes,Dairy,3.98,13oz butter with olive oil
+P0127,Great Value Pepper Jack Cheese Slices 12ct,Great Value,Dairy,2.22,12ct cheese slices
+P0128,Marketside Organic Red Grapes 2lb,Marketside,Produce,5.98,2lb organic red grapes
+P0129,Great Value Red Potatoes 5lb,Great Value,Produce,3.98,5lb red potatoes
+P0130,Mainstays 20-Piece Flatware Set,Mainstays,Home Goods,9.88,20-piece flatware set
+P0131,Equate Beauty Oil-Free Eye Makeup Remover 4oz,Equate,Personal Care,3.47,4oz eye makeup remover
+P0132,Clorox Ultra Clean Toilet Tablets 6ct,Clorox,Household,4.98,6ct toilet tablets
+P0133,Great Value Tomato Juice 46oz,Great Value,Beverages,1.98,46oz tomato juice
+P0134,Coca-Cola Diet Soda 12pk 12oz Cans,Coca-Cola,Beverages,5.98,12-pack Diet Coke cans
+P0135,Great Value Rotini Pasta 16oz,Great Value,Pantry,1,16oz rotini pasta
+P0136,Huggies Little Movers Diapers Size 4 58ct,Huggies,Baby,24.94,58ct diapers
+P0137,Crayola Washable Watercolors 8ct,Crayola,School Supplies,1.97,8ct watercolors
+P0138,Great Value Thin Crust Cheese Pizza 14.05oz,Great Value,Frozen,2.78,Frozen cheese pizza
+P0139,Colgate Baking Soda & Peroxide Whitening Toothpaste 6oz,Colgate,Personal Care,2.96,6oz whitening toothpaste
+P0140,Mainstays 6-Cube Organizer,Mainstays,Home Goods,34.88,6-cube storage organizer
+P0141,Marketside Organic Baby Kale 5oz,Marketside,Produce,3.98,5oz organic baby kale
+P0142,Arm & Hammer Sensitive Skin Laundry Detergent 122.5oz,Arm & Hammer,Household,8.98,122.5oz detergent
+P0143,Great Value Sweet Corn 15.25oz,Great Value,Canned Goods,0.5,15.25oz sweet corn
+P0144,Quaker Chewy Dipps Granola Bars 8ct,Quaker,Snacks,2.34,8ct granola bars
+P0145,Oscar Mayer Oven Roasted Turkey Breast 16oz,Oscar Mayer,Meat,6.98,16oz turkey breast
+P0146,Marketside Organic Blackberries 6oz,Marketside,Produce,3.98,6oz organic blackberries
+P0147,Great Value Natural Creamy Almond Butter 12oz,Great Value,Pantry,5.98,12oz almond butter
+P0148,Smucker's Natural Peanut Butter 16oz,Smucker's,Pantry,3.98,16oz natural peanut butter
+P0149,Great Value Cheddar & Sour Cream Potato Chips 8oz,Great Value,Snacks,1.68,8oz cheddar & sour cream chips
+P0150,Mainstays 2-Slice Toaster,Mainstays,Home Goods,12.88,2-slice toaster
+P0151,Great Value Extra Large White Eggs 18ct,Great Value,Dairy,3.48,18ct extra large eggs
+P0152,Marketside Organic Mini Sweet Peppers 16oz,Marketside,Produce,3.98,16oz mini sweet peppers
+P0153,Great Value Skim Milk 1 gal,Great Value,Dairy,3.19,1 gallon skim milk
+P0154,Tyson Chicken Tenders 25oz,Tyson,Meat,7.98,25oz chicken tenders
+P0155,Oscar Mayer Thick Cut Bologna 16oz,Oscar Mayer,Meat,3.98,16oz thick cut bologna
+P0156,Land O Lakes Butter with Canola Oil 15oz,Land O Lakes,Dairy,3.98,15oz butter with canola oil
+P0157,Great Value Swiss Cheese Slices 12ct,Great Value,Dairy,2.22,12ct Swiss cheese slices
+P0158,Marketside Organic Green Grapes 2lb,Marketside,Produce,5.98,2lb organic green grapes
+P0159,Great Value Petite Red Potatoes 3lb,Great Value,Produce,2.98,3lb petite red potatoes
+P0160,Mainstays 12-Piece Food Storage Set,Mainstays,Home Goods,9.88,12-piece food storage set
+P0161,Equate Beauty Nighttime Soothing Makeup Remover Towelettes 40ct,Equate,Personal Care,3.47,40ct makeup remover wipes
+P0162,Clorox Scentiva Disinfecting Wipes 70ct,Clorox,Household,4.98,70ct disinfecting wipes
+P0163,Great Value Grape Juice 64oz,Great Value,Beverages,2.18,64oz grape juice
+P0164,Pepsi Wild Cherry 12pk 12oz Cans,Pepsi,Beverages,5.98,12-pack Wild Cherry Pepsi
+P0165,Great Value Bowtie Pasta 12oz,Great Value,Pantry,1,12oz bowtie pasta
+P0166,Pampers Baby Dry Diapers Size 5 104ct,Pampers,Baby,24.94,104ct diapers
+P0167,Crayola Washable Glue Sticks 6ct,Crayola,School Supplies,2.97,6ct glue sticks
+P0168,Great Value Rising Crust Three Meat Pizza 29.1oz,Great Value,Frozen,4.98,Frozen three meat pizza
+P0169,Colgate Kids Cavity Protection Toothpaste 4.6oz,Colgate,Personal Care,2.96,4.6oz kids toothpaste
+P0170,Mainstays 8-Piece Towel Set,Mainstays,Home Goods,17.88,8-piece towel set
+P0171,Marketside Organic Roma Tomatoes 1lb,Marketside,Produce,2.98,1lb organic roma tomatoes
+P0172,Arm & Hammer Plus OxiClean Laundry Detergent 122.5oz,Arm & Hammer,Household,8.98,122.5oz detergent
+P0173,Great Value Sliced Carrots 14.5oz,Great Value,Canned Goods,0.5,14.5oz sliced carrots
+P0174,Quaker Chewy Yogurt Granola Bars 5ct,Quaker,Snacks,2.34,5ct yogurt granola bars
+P0175,Oscar Mayer Smoked Ham 16oz,Oscar Mayer,Meat,4.98,16oz smoked ham
+P0176,Marketside Organic Raspberries 6oz,Marketside,Produce,3.98,6oz organic raspberries
+P0177,Great Value Natural Crunchy Almond Butter 12oz,Great Value,Pantry,5.98,12oz crunchy almond butter
+P0178,Smucker's Natural Creamy Peanut Butter 16oz,Smucker's,Pantry,3.98,16oz creamy peanut butter
+P0179,Great Value Barbecue Potato Chips 8oz,Great Value,Snacks,1.68,8oz barbecue chips
+P0180,Mainstays 1.7L Electric Kettle,Mainstays,Home Goods,19.88,1.7L electric kettle
+P0181,Great Value Organic Large White Eggs 12ct,Great Value,Dairy,3.98,12ct organic white eggs
+P0182,Marketside Organic Rainbow Baby Carrots 12oz,Marketside,Produce,2.98,12oz rainbow carrots
+P0183,Great Value 2% Reduced Fat Milk 0.5 gal,Great Value,Dairy,2.48,0.5 gallon 2% milk
+P0184,Tyson Chicken Nuggets 32oz,Tyson,Meat,6.98,32oz chicken nuggets
+P0185,Oscar Mayer Selects Uncured Turkey Franks 14oz,Oscar Mayer,Meat,3.98,14oz turkey franks
+P0186,Land O Lakes Cinnamon Sugar Butter Spread 6.5oz,Land O Lakes,Dairy,2.98,6.5oz cinnamon sugar butter
+P0187,Great Value Pepper Jack Cheese Block 8oz,Great Value,Dairy,2.22,8oz pepper jack cheese block
+P0188,Marketside Organic Green Onions Bunch,Marketside,Produce,1.48,Bunch of green onions
+P0189,Great Value Yukon Gold Potatoes 3lb,Great Value,Produce,2.98,3lb Yukon Gold potatoes
+P0190,Mainstays 8-Piece Nonstick Cookware Set,Mainstays,Home Goods,24.88,8-piece cookware set
+P0191,Equate Beauty Oil-Free Acne Wash 6oz,Equate,Personal Care,3.97,6oz acne wash
+P0192,Clorox Toilet Bowl Cleaner with Bleach 24oz,Clorox,Household,2.68,24oz toilet bowl cleaner
+P0193,Great Value Apple Cider 64oz,Great Value,Beverages,2.98,64oz apple cider
+P0194,Coca-Cola Vanilla Soda 12pk 12oz Cans,Coca-Cola,Beverages,5.98,12-pack Vanilla Coke
+P0195,Great Value Shells & Cheese 12oz,Great Value,Pantry,1.98,12oz shells & cheese
+P0196,Huggies Special Delivery Diapers Size 1 35ct,Huggies,Baby,8.97,35ct diapers
+P0197,Crayola Washable Broad Line Markers 10ct,Crayola,School Supplies,2.97,10ct broad line markers
+P0198,Great Value Rising Crust Pepperoni Pizza 14.05oz,Great Value,Frozen,2.78,Frozen pepperoni pizza
+P0199,Colgate Enamel Health Whitening Toothpaste 4.0oz,Colgate,Personal Care,3.96,4oz enamel health toothpaste
+P0200,Mainstays 10-Piece Mixing Bowl Set,Mainstays,Home Goods,9.88,10-piece mixing bowl set
+ProductID,Item Name,Brand,Category,Base Price,Description
+P0201,Great Value Large Brown Eggs 24ct,Great Value,Dairy,4.98,24 large brown eggs
+P0202,Marketside Organic Baby Spinach 5oz,Marketside,Produce,3.48,5oz organic baby spinach
+P0203,Great Value 1% Low Fat Chocolate Milk 1 gal,Great Value,Dairy,3.49,1 gallon chocolate milk
+P0204,Tyson Fully Cooked Chicken Patties 26oz,Tyson,Meat,6.98,26oz chicken patties
+P0205,Oscar Mayer Angus Beef Uncured Franks 14oz,Oscar Mayer,Meat,4.48,14oz beef franks
+P0206,Land O Lakes Light Butter with Canola Oil 15oz,Land O Lakes,Dairy,2.98,15oz light butter
+P0207,Great Value Mild Cheddar Cheese Slices 16ct,Great Value,Dairy,2.22,16ct cheddar cheese slices
+P0208,Marketside Organic Strawberries 16oz,Marketside,Produce,4.98,16oz organic strawberries
+P0209,Great Value Golden Potatoes 5lb,Great Value,Produce,3.98,5lb golden potatoes
+P0210,Mainstays 20-Piece Cutlery Set,Mainstays,Home Goods,7.88,20-piece cutlery set
+P0211,Equate Beauty Hydrating Facial Cleanser 6oz,Equate,Personal Care,3.97,6oz facial cleanser
+P0212,Clorox Scentiva Multi-Surface Cleaner 32oz,Clorox,Household,3.98,32oz multi-surface cleaner
+P0213,Great Value Cran-Grape Juice 64oz,Great Value,Beverages,2.18,64oz cran-grape juice
+P0214,Pepsi Diet Soda 12pk 12oz Cans,Pepsi,Beverages,5.98,12-pack Diet Pepsi
+P0215,Great Value Ziti Pasta 16oz,Great Value,Pantry,1,16oz ziti pasta
+P0216,Pampers Pure Protection Diapers Size 3 76ct,Pampers,Baby,24.94,76ct diapers
+P0217,Crayola Washable Fine Line Markers 10ct,Crayola,School Supplies,2.97,10ct fine line markers
+P0218,Great Value Rising Crust Meat Lovers Pizza 29.1oz,Great Value,Frozen,4.98,Frozen meat lovers pizza
+P0219,Colgate Total Clean Mint Toothpaste 4.8oz,Colgate,Personal Care,3.96,4.8oz clean mint toothpaste
+P0220,Mainstays 3-Piece Mixing Bowl Set,Mainstays,Home Goods,4.88,3-piece mixing bowl set
+P0221,Marketside Organic Baby Kale 5oz,Marketside,Produce,3.98,5oz organic baby kale
+P0222,Arm & Hammer Plus OxiClean Odor Blasters 122.5oz,Arm & Hammer,Household,8.98,122.5oz odor blasters detergent
+P0223,Great Value Sweet Peas 15oz,Great Value,Canned Goods,0.5,15oz sweet peas
+P0224,Quaker Chewy Peanut Butter Chocolate Chip Bars 8ct,Quaker,Snacks,2.34,8ct peanut butter chocolate chip bars
+P0225,Oscar Mayer Deli Fresh Smoked Turkey Breast 9oz,Oscar Mayer,Meat,4.48,9oz smoked turkey breast
+P0226,Marketside Organic Blackberries 6oz,Marketside,Produce,3.98,6oz organic blackberries
+P0227,Great Value Natural Creamy Peanut Butter 16oz,Great Value,Pantry,2.22,16oz natural creamy peanut butter
+P0228,Smucker's Natural Concord Grape Jelly 17.25oz,Smucker's,Pantry,3.48,17.25oz grape jelly
+P0229,Great Value Sour Cream & Onion Potato Chips 8oz,Great Value,Snacks,1.68,8oz sour cream & onion chips
+P0230,Mainstays 12-Piece Dinnerware Set,Mainstays,Home Goods,19.88,12-piece dinnerware set
+P0231,Great Value Extra Large White Eggs 12ct,Great Value,Dairy,2.98,12ct extra large eggs
+P0232,Marketside Organic Grape Tomatoes 10oz,Marketside,Produce,2.98,10oz organic grape tomatoes
+P0233,Great Value Lactose Free 2% Milk 0.5 gal,Great Value,Dairy,2.48,0.5 gallon lactose free milk
+P0234,Tyson Grilled & Ready Chicken Breast Fillets 22oz,Tyson,Meat,7.98,22oz grilled chicken fillets
+P0235,Oscar Mayer Black Forest Ham 16oz,Oscar Mayer,Meat,4.98,16oz black forest ham
+P0236,Land O Lakes Whipped Butter 8oz,Land O Lakes,Dairy,2.98,8oz whipped butter
+P0237,Great Value Sharp Cheddar Cheese Block 16oz,Great Value,Dairy,3.98,16oz sharp cheddar cheese block
+P0238,Marketside Organic Blueberries 6oz,Marketside,Produce,3.98,6oz organic blueberries
+P0239,Great Value Red Potatoes 10lb,Great Value,Produce,6.98,10lb red potatoes
+P0240,Mainstays 16-Piece Glassware Set,Mainstays,Home Goods,14.88,16-piece glassware set
+P0241,Equate Beauty Gentle Skin Cleanser 16oz,Equate,Personal Care,4.97,16oz gentle skin cleanser
+P0242,Clorox Clean-Up Cleaner + Bleach 32oz,Clorox,Household,3.48,32oz cleaner + bleach
+P0243,Great Value Pineapple Juice 46oz,Great Value,Beverages,2.18,46oz pineapple juice
+P0244,Coca-Cola Caffeine Free Soda 12pk 12oz Cans,Coca-Cola,Beverages,5.98,12-pack caffeine free Coke
+P0245,Great Value Penne Rigate Pasta 16oz,Great Value,Pantry,1,16oz penne rigate
+P0246,Huggies Little Snugglers Diapers Size 2 84ct,Huggies,Baby,24.94,84ct diapers
+P0247,Crayola Colored Pencils 50ct,Crayola,School Supplies,7.97,50ct colored pencils
+P0248,Great Value Thin Crust Supreme Pizza 14.05oz,Great Value,Frozen,2.78,Frozen supreme pizza
+P0249,Colgate Max White Toothpaste 6oz,Colgate,Personal Care,2.96,6oz whitening toothpaste
+P0250,Mainstays 8-Piece Towel Set,Mainstays,Home Goods,17.88,8-piece towel set
+P0251,Marketside Organic Romaine Hearts 3ct,Marketside,Produce,3.98,3ct organic romaine hearts
+P0252,Arm & Hammer Super Washing Soda 55oz,Arm & Hammer,Household,4.24,55oz washing soda
+P0253,Great Value Cut Green Beans 14.5oz,Great Value,Canned Goods,0.5,14.5oz cut green beans
+P0254,Quaker Chewy Chocolate Chip Granola Bars 24ct,Quaker,Snacks,5.98,24ct granola bars
+P0255,Oscar Mayer Honey Roasted Turkey Breast 16oz,Oscar Mayer,Meat,6.98,16oz honey roasted turkey
+P0256,Marketside Organic Strawberries 8oz,Marketside,Produce,2.98,8oz organic strawberries
+P0257,Great Value Crunchy Almond Butter 12oz,Great Value,Pantry,5.98,12oz crunchy almond butter
+P0258,Smucker's Natural Strawberry Fruit Spread 17.25oz,Smucker's,Pantry,3.48,17.25oz strawberry fruit spread
+P0259,Great Value Rippled Potato Chips 8oz,Great Value,Snacks,1.68,8oz rippled potato chips
+P0260,Mainstays 8-Cube Organizer,Mainstays,Home Goods,44.88,8-cube storage organizer
+P0261,Great Value Large White Eggs 36ct,Great Value,Dairy,5.98,36 large white eggs
+P0262,Marketside Organic Grape Tomatoes 16oz,Marketside,Produce,4.98,16oz organic grape tomatoes
+P0263,Great Value Lactose Free Whole Milk 0.5 gal,Great Value,Dairy,2.48,0.5 gallon lactose free milk
+P0264,Tyson All Natural Chicken Thighs 2.5lb,Tyson,Meat,4.97,2.5lb chicken thighs
+P0265,Oscar Mayer Selects Uncured Angus Beef Franks 14oz,Oscar Mayer,Meat,4.48,14oz beef franks
+P0266,Land O Lakes Butter with Canola Oil 24oz,Land O Lakes,Dairy,4.98,24oz butter with canola oil
+P0267,Great Value Colby Jack Cheese Slices 16ct,Great Value,Dairy,2.22,16ct colby jack cheese slices
+P0268,Marketside Organic Red Seedless Grapes 2lb,Marketside,Produce,5.98,2lb organic red grapes
+P0269,Great Value Golden Potatoes 10lb,Great Value,Produce,6.98,10lb golden potatoes
+P0270,Mainstays 10-Piece Mixing Bowl Set,Mainstays,Home Goods,9.88,10-piece mixing bowl set
+P0271,Equate Beauty Oil-Free Eye Makeup Remover 4oz,Equate,Personal Care,3.47,4oz eye makeup remover
+P0272,Clorox Ultra Clean Toilet Tablets 6ct,Clorox,Household,4.98,6ct toilet tablets
+P0273,Great Value Tomato Juice 46oz,Great Value,Beverages,1.98,46oz tomato juice
+P0274,Coca-Cola Diet Soda 12pk 12oz Cans,Coca-Cola,Beverages,5.98,12-pack Diet Coke
+P0275,Great Value Rotini Pasta 16oz,Great Value,Pantry,1,16oz rotini pasta
+P0276,Huggies Little Movers Diapers Size 3 60ct,Huggies,Baby,24.94,60ct diapers
+P0277,Crayola Washable Watercolors 16ct,Crayola,School Supplies,3.97,16ct watercolors
+P0278,Great Value Rising Crust Cheese Pizza 14.05oz,Great Value,Frozen,2.78,Frozen cheese pizza
+P0279,Colgate Baking Soda & Peroxide Whitening Toothpaste 6oz,Colgate,Personal Care,2.96,6oz whitening toothpaste
+P0280,Mainstays 6-Cube Organizer,Mainstays,Home Goods,34.88,6-cube storage organizer
+P0281,Marketside Organic Baby Kale 5oz,Marketside,Produce,3.98,5oz organic baby kale
+P0282,Arm & Hammer Sensitive Skin Laundry Detergent 122.5oz,Arm & Hammer,Household,8.98,122.5oz detergent
+P0283,Great Value Sweet Corn 15.25oz,Great Value,Canned Goods,0.5,15.25oz sweet corn
+P0284,Quaker Chewy Dipps Granola Bars 8ct,Quaker,Snacks,2.34,8ct granola bars
+P0285,Oscar Mayer Oven Roasted Turkey Breast 16oz,Oscar Mayer,Meat,6.98,16oz oven roasted turkey
+P0286,Marketside Organic Blackberries 6oz,Marketside,Produce,3.98,6oz organic blackberries
+P0287,Great Value Natural Creamy Almond Butter 12oz,Great Value,Pantry,5.98,12oz almond butter
+P0288,Smucker's Natural Peanut Butter 16oz,Smucker's,Pantry,3.98,16oz natural peanut butter
+P0289,Great Value Cheddar & Sour Cream Potato Chips 8oz,Great Value,Snacks,1.68,8oz cheddar & sour cream chips
+P0290,Mainstays 2-Slice Toaster,Mainstays,Home Goods,12.88,2-slice toaster
+P0291,Great Value Extra Large White Eggs 18ct,Great Value,Dairy,3.48,18ct extra large eggs
+P0292,Marketside Organic Mini Sweet Peppers 16oz,Marketside,Produce,3.98,16oz mini sweet peppers
+P0293,Great Value Skim Milk 1 gal,Great Value,Dairy,3.19,1 gallon skim milk
+P0294,Tyson Chicken Tenders 25oz,Tyson,Meat,7.98,25oz chicken tenders
+P0295,Oscar Mayer Thick Cut Bologna 16oz,Oscar Mayer,Meat,3.98,16oz thick cut bologna
+P0296,Land O Lakes Butter with Canola Oil 15oz,Land O Lakes,Dairy,3.98,15oz butter with canola oil
+P0297,Great Value Swiss Cheese Slices 12ct,Great Value,Dairy,2.22,12ct Swiss cheese slices
+P0298,Marketside Organic Green Grapes 2lb,Marketside,Produce,5.98,2lb organic green grapes
+P0299,Great Value Petite Red Potatoes 3lb,Great Value,Produce,2.98,3lb petite red potatoes
+P0300,Mainstays 12-Piece Food Storage Set,Mainstays,Home Goods,9.88,12-piece food storage set
+P0301,Equate Beauty Nighttime Soothing Makeup Remover Towelettes 40ct,Equate,Personal Care,3.47,40ct makeup remover wipes
+P0302,Clorox Scentiva Disinfecting Wipes 70ct,Clorox,Household,4.98,70ct disinfecting wipes
+P0303,Great Value Grape Juice 64oz,Great Value,Beverages,2.18,64oz grape juice
+P0304,Pepsi Wild Cherry 12pk 12oz Cans,Pepsi,Beverages,5.98,12-pack Wild Cherry Pepsi
+P0305,Great Value Bowtie Pasta 12oz,Great Value,Pantry,1,12oz bowtie pasta
+P0306,Pampers Baby Dry Diapers Size 5 104ct,Pampers,Baby,24.94,104ct diapers
+P0307,Crayola Washable Glue Sticks 6ct,Crayola,School Supplies,2.97,6ct glue sticks
+P0308,Great Value Rising Crust Three Meat Pizza 29.1oz,Great Value,Frozen,4.98,Frozen three meat pizza
+P0309,Colgate Kids Cavity Protection Toothpaste 4.6oz,Colgate,Personal Care,2.96,4.6oz kids toothpaste
+P0310,Mainstays 8-Piece Towel Set,Mainstays,Home Goods,17.88,8-piece towel set
+P0311,Marketside Organic Roma Tomatoes 1lb,Marketside,Produce,2.98,1lb organic roma tomatoes
+P0312,Arm & Hammer Plus OxiClean Laundry Detergent 122.5oz,Arm & Hammer,Household,8.98,122.5oz detergent
+P0313,Great Value Sliced Carrots 14.5oz,Great Value,Canned Goods,0.5,14.5oz sliced carrots
+P0314,Quaker Chewy Yogurt Granola Bars 5ct,Quaker,Snacks,2.34,5ct yogurt granola bars
+P0315,Oscar Mayer Smoked Ham 16oz,Oscar Mayer,Meat,4.98,16oz smoked ham
+P0316,Marketside Organic Raspberries 6oz,Marketside,Produce,3.98,6oz organic raspberries
+P0317,Great Value Natural Crunchy Almond Butter 12oz,Great Value,Pantry,5.98,12oz crunchy almond butter
+P0318,Smucker's Natural Creamy Peanut Butter 16oz,Smucker's,Pantry,3.98,16oz creamy peanut butter
+P0319,Great Value Barbecue Potato Chips 8oz,Great Value,Snacks,1.68,8oz barbecue chips
+P0320,Mainstays 1.7L Electric Kettle,Mainstays,Home Goods,19.88,1.7L electric kettle
+P0321,Great Value Organic Large White Eggs 12ct,Great Value,Dairy,3.98,12ct organic white eggs
+P0322,Marketside Organic Rainbow Baby Carrots 12oz,Marketside,Produce,2.98,12oz rainbow carrots
+P0323,Great Value 2% Reduced Fat Milk 0.5 gal,Great Value,Dairy,2.48,0.5 gallon 2% milk
+P0324,Tyson Chicken Nuggets 32oz,Tyson,Meat,6.98,32oz chicken nuggets
+P0325,Oscar Mayer Selects Uncured Turkey Franks 14oz,Oscar Mayer,Meat,3.98,14oz turkey franks
+P0326,Land O Lakes Cinnamon Sugar Butter Spread 6.5oz,Land O Lakes,Dairy,2.98,6.5oz cinnamon sugar butter
+P0327,Great Value Pepper Jack Cheese Block 8oz,Great Value,Dairy,2.22,8oz pepper jack cheese block
+P0328,Marketside Organic Green Onions Bunch,Marketside,Produce,1.48,Bunch of green onions
+P0329,Great Value Yukon Gold Potatoes 3lb,Great Value,Produce,2.98,3lb Yukon Gold potatoes
+P0330,Mainstays 8-Piece Nonstick Cookware Set,Mainstays,Home Goods,24.88,8-piece cookware set
+P0331,Equate Beauty Oil-Free Acne Wash 6oz,Equate,Personal Care,3.97,6oz acne wash
+P0332,Clorox Toilet Bowl Cleaner with Bleach 24oz,Clorox,Household,2.68,24oz toilet bowl cleaner
+P0333,Great Value Apple Cider 64oz,Great Value,Beverages,2.98,64oz apple cider
+P0334,Coca-Cola Vanilla Soda 12pk 12oz Cans,Coca-Cola,Beverages,5.98,12-pack Vanilla Coke
+P0335,Great Value Shells & Cheese 12oz,Great Value,Pantry,1.98,12oz shells & cheese
+P0336,Huggies Special Delivery Diapers Size 1 35ct,Huggies,Baby,8.97,35ct diapers
+P0337,Crayola Washable Broad Line Markers 10ct,Crayola,School Supplies,2.97,10ct broad line markers
+P0338,Great Value Rising Crust Pepperoni Pizza 14.05oz,Great Value,Frozen,2.78,Frozen pepperoni pizza
+P0339,Colgate Enamel Health Whitening Toothpaste 4.0oz,Colgate,Personal Care,3.96,4oz enamel health toothpaste
+P0340,Mainstays 10-Piece Mixing Bowl Set,Mainstays,Home Goods,9.88,10-piece mixing bowl set
+P0341,Great Value Large Brown Eggs 24ct,Great Value,Dairy,4.98,24 large brown eggs
+P0342,Marketside Organic Baby Spinach 5oz,Marketside,Produce,3.48,5oz organic baby spinach
+P0343,Great Value 1% Low Fat Chocolate Milk 1 gal,Great Value,Dairy,3.49,1 gallon chocolate milk
+P0344,Tyson Fully Cooked Chicken Patties 26oz,Tyson,Meat,6.98,26oz chicken patties
+P0345,Oscar Mayer Angus Beef Uncured Franks 14oz,Oscar Mayer,Meat,4.48,14oz beef franks
+P0346,Land O Lakes Light Butter with Canola Oil 15oz,Land O Lakes,Dairy,2.98,15oz light butter
+P0347,Great Value Mild Cheddar Cheese Slices 16ct,Great Value,Dairy,2.22,16ct cheddar cheese slices
+P0348,Marketside Organic Strawberries 16oz,Marketside,Produce,4.98,16oz organic strawberries
+P0349,Great Value Golden Potatoes 5lb,Great Value,Produce,3.98,5lb golden potatoes
+P0350,Mainstays 20-Piece Cutlery Set,Mainstays,Home Goods,7.88,20-piece cutlery set
+P0351,Equate Beauty Hydrating Facial Cleanser 6oz,Equate,Personal Care,3.97,6oz facial cleanser
+P0352,Clorox Scentiva Multi-Surface Cleaner 32oz,Clorox,Household,3.98,32oz multi-surface cleaner
+P0353,Great Value Cran-Grape Juice 64oz,Great Value,Beverages,2.18,64oz cran-grape juice
+P0354,Pepsi Diet Soda 12pk 12oz Cans,Pepsi,Beverages,5.98,12-pack Diet Pepsi
+P0355,Great Value Ziti Pasta 16oz,Great Value,Pantry,1,16oz ziti pasta
+P0356,Pampers Pure Protection Diapers Size 3 76ct,Pampers,Baby,24.94,76ct diapers
+P0357,Crayola Washable Fine Line Markers 10ct,Crayola,School Supplies,2.97,10ct fine line markers
+P0358,Great Value Rising Crust Meat Lovers Pizza 29.1oz,Great Value,Frozen,4.98,Frozen meat lovers pizza
+P0359,Colgate Total Clean Mint Toothpaste 4.8oz,Colgate,Personal Care,3.96,4.8oz clean mint toothpaste
+P0360,Mainstays 3-Piece Mixing Bowl Set,Mainstays,Home Goods,4.88,3-piece mixing bowl set
+P0361,Marketside Organic Baby Kale 5oz,Marketside,Produce,3.98,5oz organic baby kale
+P0362,Arm & Hammer Plus OxiClean Odor Blasters 122.5oz,Arm & Hammer,Household,8.98,122.5oz odor blasters detergent
+P0363,Great Value Sweet Peas 15oz,Great Value,Canned Goods,0.5,15oz sweet peas
+P0364,Quaker Chewy Peanut Butter Chocolate Chip Bars 8ct,Quaker,Snacks,2.34,8ct peanut butter chocolate chip bars
+P0365,Oscar Mayer Deli Fresh Smoked Turkey Breast 9oz,Oscar Mayer,Meat,4.48,9oz smoked turkey breast
+P0366,Marketside Organic Blackberries 6oz,Marketside,Produce,3.98,6oz organic blackberries
+P0367,Great Value Natural Creamy Peanut Butter 16oz,Great Value,Pantry,2.22,16oz natural creamy peanut butter
+P0368,Smucker's Natural Concord Grape Jelly 17.25oz,Smucker's,Pantry,3.48,17.25oz grape jelly
+P0369,Great Value Sour Cream & Onion Potato Chips 8oz,Great Value,Snacks,1.68,8oz sour cream & onion chips
+P0370,Mainstays 12-Piece Dinnerware Set,Mainstays,Home Goods,19.88,12-piece dinnerware set
+P0371,Great Value Extra Large White Eggs 12ct,Great Value,Dairy,2.98,12ct extra large eggs
+P0372,Marketside Organic Grape Tomatoes 10oz,Marketside,Produce,2.98,10oz organic grape tomatoes
+P0373,Great Value Lactose Free 2% Milk 0.5 gal,Great Value,Dairy,2.48,0.5 gallon lactose free milk
+P0374,Tyson Grilled & Ready Chicken Breast Fillets 22oz,Tyson,Meat,7.98,22oz grilled chicken fillets
+P0375,Oscar Mayer Black Forest Ham 16oz,Oscar Mayer,Meat,4.98,16oz black forest ham
+P0376,Land O Lakes Whipped Butter 8oz,Land O Lakes,Dairy,2.98,8oz whipped butter
+P0377,Great Value Sharp Cheddar Cheese Block 16oz,Great Value,Dairy,3.98,16oz sharp cheddar cheese block
+P0378,Marketside Organic Blueberries 6oz,Marketside,Produce,3.98,6oz organic blueberries
+P0379,Great Value Red Potatoes 10lb,Great Value,Produce,6.98,10lb red potatoes
+P0380,Mainstays 16-Piece Glassware Set,Mainstays,Home Goods,14.88,16-piece glassware set
+P0381,Equate Beauty Gentle Skin Cleanser 16oz,Equate,Personal Care,4.97,16oz gentle skin cleanser
+P0382,Clorox Clean-Up Cleaner + Bleach 32oz,Clorox,Household,3.48,32oz cleaner + bleach
+P0383,Great Value Pineapple Juice 46oz,Great Value,Beverages,2.18,46oz pineapple juice
+P0384,Coca-Cola Caffeine Free Soda 12pk 12oz Cans,Coca-Cola,Beverages,5.98,12-pack caffeine free Coke
+P0385,Great Value Penne Rigate Pasta 16oz,Great Value,Pantry,1,16oz penne rigate
+P0386,Huggies Little Snugglers Diapers Size 2 84ct,Huggies,Baby,24.94,84ct diapers
+P0387,Crayola Colored Pencils 50ct,Crayola,School Supplies,7.97,50ct colored pencils
+P0388,Great Value Thin Crust Supreme Pizza 14.05oz,Great Value,Frozen,2.78,Frozen supreme pizza
+P0389,Colgate Max White Toothpaste 6oz,Colgate,Personal Care,2.96,6oz whitening toothpaste
+P0390,Mainstays 8-Piece Towel Set,Mainstays,Home Goods,17.88,8-piece towel set
+P0391,Marketside Organic Romaine Hearts 3ct,Marketside,Produce,3.98,3ct organic romaine hearts
+P0392,Arm & Hammer Super Washing Soda 55oz,Arm & Hammer,Household,4.24,55oz washing soda
+P0393,Great Value Cut Green Beans 14.5oz,Great Value,Canned Goods,0.5,14.5oz cut green beans
+P0394,Quaker Chewy Chocolate Chip Granola Bars 24ct,Quaker,Snacks,5.98,24ct granola bars
+P0395,Oscar Mayer Honey Roasted Turkey Breast 16oz,Oscar Mayer,Meat,6.98,16oz honey roasted turkey
+P0396,Marketside Organic Strawberries 8oz,Marketside,Produce,2.98,8oz organic strawberries
+P0397,Great Value Crunchy Almond Butter 12oz,Great Value,Pantry,5.98,12oz crunchy almond butter
+P0398,Smucker's Natural Strawberry Fruit Spread 17.25oz,Smucker's,Pantry,3.48,17.25oz strawberry fruit spread
+P0399,Great Value Rippled Potato Chips 8oz,Great Value,Snacks,1.68,8oz rippled potato chips
+P0400,Mainstays 8-Cube Organizer,Mainstays,Home Goods,44.88,8-cube storage organizer
+ProductID,Item Name,Brand,Category,Base Price,Description
+P0401,Great Value Cage Free Large Brown Eggs 12ct,Great Value,Dairy,3.48,12ct cage free brown eggs
+P0402,Marketside Organic Spring Mix 16oz,Marketside,Produce,5.98,16oz organic spring mix
+P0403,Great Value Chocolate Almond Milk 0.5 gal,Great Value,Dairy,2.68,0.5 gallon chocolate almond milk
+P0404,Tyson Fully Cooked Chicken Nuggets 32oz,Tyson,Meat,6.98,32oz chicken nuggets
+P0405,Oscar Mayer Turkey Bacon 12oz,Oscar Mayer,Meat,3.98,12oz turkey bacon
+P0406,Land O Lakes Unsalted Butter Half Sticks 16oz,Land O Lakes,Dairy,4.18,16oz unsalted butter half sticks
+P0407,Great Value Monterey Jack Cheese Slices 12ct,Great Value,Dairy,2.22,12ct Monterey Jack cheese slices
+P0408,Marketside Organic Strawberries 32oz,Marketside,Produce,7.98,32oz organic strawberries
+P0409,Great Value Red Potatoes 3lb,Great Value,Produce,2.98,3lb red potatoes
+P0410,Mainstays 7-Piece Cookware Set,Mainstays,Home Goods,19.88,7-piece cookware set
+P0411,Equate Beauty Foaming Facial Cleanser 6.8oz,Equate,Personal Care,3.97,6.8oz foaming facial cleanser
+P0412,Clorox Scentiva Bathroom Foam Cleaner 32oz,Clorox,Household,3.98,32oz bathroom foam cleaner
+P0413,Great Value White Grape Juice 64oz,Great Value,Beverages,2.18,64oz white grape juice
+P0414,Pepsi Mountain Dew Soda 12pk 12oz Cans,Pepsi,Beverages,5.98,12-pack Mountain Dew
+P0415,Great Value Rotini Pasta 16oz,Great Value,Pantry,1,16oz rotini pasta
+P0416,Pampers Swaddlers Diapers Size 4 150ct,Pampers,Baby,39.94,150ct diapers
+P0417,Crayola Washable Super Tips Markers 20ct,Crayola,School Supplies,3.97,20ct super tips markers
+P0418,Great Value Rising Crust Four Cheese Pizza 27.5oz,Great Value,Frozen,3.98,Frozen four cheese pizza
+P0419,Colgate Total Advanced Whitening Toothpaste 4.8oz,Colgate,Personal Care,3.96,4.8oz advanced whitening toothpaste
+P0420,Mainstays 4-Slice Toaster Oven,Mainstays,Home Goods,24.88,4-slice toaster oven
+P0421,Marketside Organic Romaine Lettuce 3ct,Marketside,Produce,3.98,3ct organic romaine lettuce
+P0422,Arm & Hammer Plus OxiClean Fresh Scent 122.5oz,Arm & Hammer,Household,8.98,122.5oz fresh scent detergent
+P0423,Great Value Mixed Vegetables 12oz,Great Value,Frozen,0.98,12oz frozen mixed vegetables
+P0424,Quaker Chewy Chocolate Chip Granola Bars 58ct,Quaker,Snacks,10.98,58ct granola bars
+P0425,Oscar Mayer Uncured Turkey Bacon 8oz,Oscar Mayer,Meat,2.98,8oz uncured turkey bacon
+P0426,Marketside Organic Mango Chunks 10oz,Marketside,Produce,3.98,10oz organic mango chunks
+P0427,Great Value Natural Almond Butter 12oz,Great Value,Pantry,5.98,12oz natural almond butter
+P0428,Smucker's Natural Orange Marmalade 17.25oz,Smucker's,Pantry,3.48,17.25oz orange marmalade
+P0429,Great Value Classic Potato Chips 8oz,Great Value,Snacks,1.68,8oz classic potato chips
+P0430,Mainstays 4-Tier Shelf,Mainstays,Home Goods,24.88,4-tier shelf
+P0431,Great Value Large Cage Free Brown Eggs 18ct,Great Value,Dairy,4.98,18ct cage free brown eggs
+P0432,Marketside Organic Baby Spinach 10oz,Marketside,Produce,3.98,10oz organic baby spinach
+P0433,Great Value Almond Milk Unsweetened 0.5 gal,Great Value,Dairy,2.68,0.5 gallon almond milk
+P0434,Tyson Grilled Chicken Breast Strips 16oz,Tyson,Meat,5.98,16oz grilled chicken breast strips
+P0435,Oscar Mayer Selects Natural Uncured Beef Franks 14oz,Oscar Mayer,Meat,4.48,14oz natural beef franks
+P0436,Land O Lakes Butter with Olive Oil 13oz,Land O Lakes,Dairy,3.98,13oz butter with olive oil
+P0437,Great Value Colby Jack Cheese Block 16oz,Great Value,Dairy,3.98,16oz colby jack cheese block
+P0438,Marketside Organic Black Seedless Grapes 2lb,Marketside,Produce,5.98,2lb organic black grapes
+P0439,Great Value Sweet Potatoes 5lb,Great Value,Produce,3.98,5lb sweet potatoes
+P0440,Mainstays 6-Piece Towel Set,Mainstays,Home Goods,11.88,6-piece towel set
+P0441,Equate Beauty Moisturizing Lotion 20.3oz,Equate,Personal Care,2.97,20.3oz moisturizing lotion
+P0442,Clorox Scentiva Multi-Surface Cleaner 24oz,Clorox,Household,3.98,24oz multi-surface cleaner
+P0443,Great Value Cranberry Apple Juice 64oz,Great Value,Beverages,2.18,64oz cranberry apple juice
+P0444,Pepsi Caffeine Free Soda 12pk 12oz Cans,Pepsi,Beverages,5.98,12-pack caffeine free Pepsi
+P0445,Great Value Fettuccine Pasta 16oz,Great Value,Pantry,1,16oz fettuccine pasta
+P0446,Huggies Natural Care Wipes 576ct,Huggies,Baby,14.97,576ct baby wipes
+P0447,Crayola Washable Markers 20ct,Crayola,School Supplies,3.97,20ct washable markers
+P0448,Great Value Rising Crust Veggie Pizza 27.5oz,Great Value,Frozen,3.98,Frozen veggie pizza
+P0449,Colgate Max Fresh Whitening Toothpaste 6oz,Colgate,Personal Care,2.96,6oz max fresh toothpaste
+P0450,Mainstays 5-Piece Kitchen Utensil Set,Mainstays,Home Goods,6.88,5-piece kitchen utensil set
+P0451,Marketside Organic Roma Tomatoes 2lb,Marketside,Produce,4.98,2lb organic roma tomatoes
+P0452,Arm & Hammer Baking Soda 32oz,Arm & Hammer,Pantry,1.98,32oz baking soda
+P0453,Great Value Whole Green Beans 14.5oz,Great Value,Canned Goods,0.5,14.5oz whole green beans
+P0454,Quaker Chewy S'mores Granola Bars 8ct,Quaker,Snacks,2.34,8ct s'mores granola bars
+P0455,Oscar Mayer Deli Fresh Honey Ham 9oz,Oscar Mayer,Meat,4.48,9oz honey ham
+P0456,Marketside Organic Raspberries 12oz,Marketside,Produce,5.98,12oz organic raspberries
+P0457,Great Value Creamy Almond Butter 12oz,Great Value,Pantry,5.98,12oz creamy almond butter
+P0458,Smucker's Natural Red Raspberry Fruit Spread 17.25oz,Smucker's,Pantry,3.48,17.25oz raspberry fruit spread
+P0459,Great Value Classic Rippled Potato Chips 8oz,Great Value,Snacks,1.68,8oz rippled potato chips
+P0460,Mainstays 12-Piece Cookware Set,Mainstays,Home Goods,29.88,12-piece cookware set
+P0461,Great Value Large Brown Eggs 18ct,Great Value,Dairy,3.28,18ct brown eggs
+P0462,Marketside Organic Grape Tomatoes 24oz,Marketside,Produce,6.98,24oz organic grape tomatoes
+P0463,Great Value Lactose Free 1% Milk 0.5 gal,Great Value,Dairy,2.48,0.5 gallon lactose free 1% milk
+P0464,Tyson All Natural Chicken Drumsticks 2.5lb,Tyson,Meat,4.97,2.5lb chicken drumsticks
+P0465,Oscar Mayer Selects Uncured Angus Beef Hot Dogs 14oz,Oscar Mayer,Meat,4.48,14oz angus beef hot dogs
+P0466,Land O Lakes Spreadable Butter with Olive Oil 13oz,Land O Lakes,Dairy,3.98,13oz spreadable butter
+P0467,Great Value Pepper Jack Cheese Slices 12ct,Great Value,Dairy,2.22,12ct pepper jack cheese slices
+P0468,Marketside Organic Green Seedless Grapes 2lb,Marketside,Produce,5.98,2lb organic green grapes
+P0469,Great Value Petite Gold Potatoes 3lb,Great Value,Produce,2.98,3lb petite gold potatoes
+P0470,Mainstays 16-Piece Dinnerware Set,Mainstays,Home Goods,24.88,16-piece dinnerware set
+P0471,Equate Beauty Oil-Free Moisturizer 4oz,Equate,Personal Care,3.97,4oz oil-free moisturizer
+P0472,Clorox Scentiva Disinfecting Spray 32oz,Clorox,Household,3.98,32oz disinfecting spray
+P0473,Great Value Apple Grape Juice 64oz,Great Value,Beverages,2.18,64oz apple grape juice
+P0474,Coca-Cola Orange Vanilla Soda 12pk 12oz Cans,Coca-Cola,Beverages,5.98,12-pack Orange Vanilla Coke
+P0475,Great Value Linguine Pasta 16oz,Great Value,Pantry,1,16oz linguine pasta
+P0476,Pampers Cruisers Diapers Size 6 92ct,Pampers,Baby,24.94,92ct diapers
+P0477,Crayola Washable Colored Pencils 24ct,Crayola,School Supplies,3.97,24ct washable colored pencils
+P0478,Great Value Rising Crust Sausage Pizza 27.5oz,Great Value,Frozen,3.98,Frozen sausage pizza
+P0479,Colgate Total Advanced Deep Clean Toothpaste 4.8oz,Colgate,Personal Care,3.96,4.8oz deep clean toothpaste
+P0480,Mainstays 4-Piece Canister Set,Mainstays,Home Goods,9.88,4-piece canister set
+P0481,Marketside Organic Baby Arugula 5oz,Marketside,Produce,3.98,5oz organic baby arugula
+P0482,Arm & Hammer Plus OxiClean Fresh Scent 61.25oz,Arm & Hammer,Household,4.98,61.25oz fresh scent detergent
+P0483,Great Value Diced Tomatoes 14.5oz,Great Value,Canned Goods,0.5,14.5oz diced tomatoes
+P0484,Quaker Chewy Granola Bars Variety Pack 24ct,Quaker,Snacks,5.98,24ct granola bars
+P0485,Oscar Mayer Deli Fresh Rotisserie Chicken Breast 9oz,Oscar Mayer,Meat,4.48,9oz rotisserie chicken breast
+P0486,Marketside Organic Strawberries 24oz,Marketside,Produce,7.98,24oz organic strawberries
+P0487,Great Value Natural Crunchy Peanut Butter 16oz,Great Value,Pantry,2.22,16oz natural crunchy peanut butter
+P0488,Smucker's Natural Grape Fruit Spread 17.25oz,Smucker's,Pantry,3.48,17.25oz grape fruit spread
+P0489,Great Value Sour Cream & Onion Rippled Potato Chips 8oz,Great Value,Snacks,1.68,8oz sour cream & onion rippled chips
+P0490,Mainstays 12-Piece Glass Set,Mainstays,Home Goods,14.88,12-piece glass set
+P0491,Great Value Large White Eggs 18ct,Great Value,Dairy,2.98,18ct large white eggs
+P0492,Marketside Organic Cherry Tomatoes 10oz,Marketside,Produce,2.98,10oz organic cherry tomatoes
+P0493,Great Value Lactose Free Fat Free Milk 0.5 gal,Great Value,Dairy,2.48,0.5 gallon lactose free fat free milk
+P0494,Tyson Grilled & Ready Chicken Breast Strips 22oz,Tyson,Meat,7.98,22oz grilled chicken strips
+P0495,Oscar Mayer Selects Natural Uncured Turkey Franks 14oz,Oscar Mayer,Meat,3.98,14oz natural turkey franks
+P0496,Land O Lakes Whipped Butter 15oz,Land O Lakes,Dairy,3.98,15oz whipped butter
+P0497,Great Value Provolone Cheese Slices 12ct,Great Value,Dairy,2.22,12ct provolone cheese slices
+P0498,Marketside Organic Blueberries 18oz,Marketside,Produce,6.98,18oz organic blueberries
+P0499,Great Value Yukon Gold Potatoes 10lb,Great Value,Produce,6.98,10lb Yukon Gold potatoes
+P0500,Mainstays 10-Piece Stainless Steel Mixing Bowl Set,Mainstays,Home Goods,19.88,10-piece mixing bowl set
+P0501,Equate Beauty Oil-Free Eye Makeup Remover 4oz,Equate,Personal Care,3.47,4oz oil-free eye makeup remover
+P0502,Clorox Ultra Clean Toilet Tablets 12ct,Clorox,Household,7.98,12ct toilet tablets
+P0503,Great Value Tomato Juice 64oz,Great Value,Beverages,2.98,64oz tomato juice
+P0504,Coca-Cola Diet Soda 24pk 12oz Cans,Coca-Cola,Beverages,10.98,24-pack Diet Coke
+P0505,Great Value Spaghetti Pasta 32oz,Great Value,Pantry,1.88,32oz spaghetti pasta
+P0506,Huggies Little Movers Diapers Size 5 50ct,Huggies,Baby,24.94,50ct diapers
+P0507,Crayola Construction Paper 120 Sheets,Crayola,School Supplies,2.97,120 sheets construction paper
+P0508,Great Value Rising Crust Pepperoni Pizza 27.5oz,Great Value,Frozen,3.98,Frozen pepperoni pizza
+P0509,Colgate Optic White Toothpaste 5oz,Colgate,Personal Care,3.96,5oz optic white toothpaste
+P0510,Mainstays 8-Piece Towel Set,Mainstays,Home Goods,17.88,8-piece towel set
+P0511,Marketside Organic Romaine Hearts 6ct,Marketside,Produce,7.98,6ct organic romaine hearts
+P0512,Arm & Hammer Super Washing Soda 32oz,Arm & Hammer,Household,2.98,32oz washing soda
+P0513,Great Value Whole Kernel Corn 29oz,Great Value,Canned Goods,0.98,29oz whole kernel corn
+P0514,Quaker Chewy Chocolate Chip Granola Bars 36ct,Quaker,Snacks,8.98,36ct granola bars
+P0515,Oscar Mayer Deli Fresh Oven Roasted Turkey 16oz,Oscar Mayer,Meat,6.98,16oz oven roasted turkey
+P0516,Marketside Organic Strawberries 32oz,Marketside,Produce,7.98,32oz organic strawberries
+P0517,Great Value Natural Creamy Peanut Butter 40oz,Great Value,Pantry,3.47,40oz natural creamy peanut butter
+P0518,Smucker's Natural Strawberry Fruit Spread 27.25oz,Smucker's,Pantry,4.98,27.25oz strawberry fruit spread
+P0519,Great Value Original Potato Chips 16oz,Great Value,Snacks,2.98,16oz potato chips
+P0520,Mainstays 20-Piece Flatware Set,Mainstays,Home Goods,9.88,20-piece flatware set
+P0521,Great Value Large White Eggs 60ct,Great Value,Dairy,9.98,60ct large white eggs
+P0522,Marketside Organic Baby Carrots 32oz,Marketside,Produce,4.98,32oz organic baby carrots
+P0523,Great Value 2% Reduced Fat Milk 2 gal,Great Value,Dairy,6.38,2 gallons 2% milk
+P0524,Tyson All Natural Chicken Breast Tenderloins 2.5lb,Tyson,Meat,7.98,2.5lb chicken breast tenderloins
+P0525,Oscar Mayer Selects Natural Uncured Angus Beef Franks 28oz,Oscar Mayer,Meat,8.98,28oz angus beef franks
+P0526,Land O Lakes Butter with Canola Oil 30oz,Land O Lakes,Dairy,7.98,30oz butter with canola oil
+P0527,Great Value Cheddar Cheese Slices 24ct,Great Value,Dairy,4.44,24ct cheddar cheese slices
+P0528,Marketside Organic Red Grapes 4lb,Marketside,Produce,11.98,4lb organic red grapes
+P0529,Great Value Red Potatoes 20lb,Great Value,Produce,12.98,20lb red potatoes
+P0530,Mainstays 20-Piece Dinnerware Set,Mainstays,Home Goods,29.88,20-piece dinnerware set
+P0531,Equate Beauty Gentle Skin Cleanser 32oz,Equate,Personal Care,7.98,32oz skin cleanser
+P0532,Clorox Clean-Up Cleaner + Bleach 64oz,Clorox,Household,6.98,64oz cleaner + bleach
+P0533,Great Value Pineapple Juice 92oz,Great Value,Beverages,4.18,92oz pineapple juice
+P0534,Coca-Cola Caffeine Free Soda 24pk 12oz Cans,Coca-Cola,Beverages,10.98,24-pack caffeine free Coke
+P0535,Great Value Penne Rigate Pasta 32oz,Great Value,Pantry,1.88,32oz penne rigate
+P0536,Huggies Little Snugglers Diapers Size 1 84ct,Huggies,Baby,24.94,84ct diapers
+P0537,Crayola Washable Watercolors 24ct,Crayola,School Supplies,5.97,24ct watercolors
+P0538,Great Value Rising Crust Cheese Pizza 27.5oz,Great Value,Frozen,3.98,Frozen cheese pizza
+P0539,Colgate Baking Soda & Peroxide Whitening Toothpaste 8oz,Colgate,Personal Care,3.96,8oz whitening toothpaste
+P0540,Mainstays 12-Cube Organizer,Mainstays,Home Goods,59.88,12-cube storage organizer
+P0541,Marketside Organic Baby Spinach 20oz,Marketside,Produce,7.98,20oz organic baby spinach
+P0542,Arm & Hammer Sensitive Skin Laundry Detergent 61.25oz,Arm & Hammer,Household,4.98,61.25oz detergent
+P0543,Great Value Sweet Corn 29oz,Great Value,Canned Goods,0.98,29oz sweet corn
+P0544,Quaker Chewy Dipps Granola Bars 16ct,Quaker,Snacks,4.68,16ct granola bars
+P0545,Oscar Mayer Oven Roasted Turkey Breast 32oz,Oscar Mayer,Meat,12.98,32oz oven roasted turkey
+P0546,Marketside Organic Blackberries 12oz,Marketside,Produce,5.98,12oz organic blackberries
+P0547,Great Value Natural Crunchy Almond Butter 24oz,Great Value,Pantry,11.98,24oz crunchy almond butter
+P0548,Smucker's Natural Peanut Butter 26oz,Smucker's,Pantry,4.98,26oz natural peanut butter
+P0549,Great Value Cheddar & Sour Cream Potato Chips 16oz,Great Value,Snacks,2.98,16oz cheddar & sour cream chips
+P0550,Mainstays 4-Slice Toaster,Mainstays,Home Goods,19.88,4-slice toaster
+P0551,Great Value Extra Large White Eggs 24ct,Great Value,Dairy,4.98,24ct extra large eggs
+P0552,Marketside Organic Mini Sweet Peppers 32oz,Marketside,Produce,6.98,32oz mini sweet peppers
+P0553,Great Value Skim Milk 2 gal,Great Value,Dairy,6.38,2 gallons skim milk
+P0554,Tyson Chicken Tenders 50oz,Tyson,Meat,13.98,50oz chicken tenders
+P0555,Oscar Mayer Thick Cut Bologna 32oz,Oscar Mayer,Meat,7.98,32oz thick cut bologna
+P0556,Land O Lakes Butter with Canola Oil 30oz,Land O Lakes,Dairy,7.98,30oz butter with canola oil
+P0557,Great Value Swiss Cheese Slices 24ct,Great Value,Dairy,4.44,24ct Swiss cheese slices
+P0558,Marketside Organic Green Grapes 4lb,Marketside,Produce,11.98,4lb organic green grapes
+P0559,Great Value Petite Red Potatoes 6lb,Great Value,Produce,5.98,6lb petite red potatoes
+P0560,Mainstays 24-Piece Food Storage Set,Mainstays,Home Goods,17.88,24-piece food storage set
+P0561,Equate Beauty Nighttime Soothing Makeup Remover Towelettes 80ct,Equate,Personal Care,6.97,80ct makeup remover wipes
+P0562,Clorox Scentiva Disinfecting Wipes 140ct,Clorox,Household,8.98,140ct disinfecting wipes
+P0563,Great Value Grape Juice 128oz,Great Value,Beverages,4.18,128oz grape juice
+P0564,Pepsi Wild Cherry 24pk 12oz Cans,Pepsi,Beverages,10.98,24-pack Wild Cherry Pepsi
+P0565,Great Value Bowtie Pasta 24oz,Great Value,Pantry,1.44,24oz bowtie pasta
+P0566,Pampers Baby Dry Diapers Size 6 92ct,Pampers,Baby,24.94,92ct diapers
+P0567,Crayola Washable Glue Sticks 12ct,Crayola,School Supplies,4.97,12ct glue sticks
+P0568,Great Value Rising Crust Three Meat Pizza 58.2oz,Great Value,Frozen,8.98,2-pack three meat pizza
+P0569,Colgate Kids Cavity Protection Toothpaste 9.2oz,Colgate,Personal Care,4.96,2-pack kids toothpaste
+P0570,Mainstays 16-Piece Towel Set,Mainstays,Home Goods,32.88,16-piece towel set
+P0571,Marketside Organic Roma Tomatoes 4lb,Marketside,Produce,7.98,4lb organic roma tomatoes
+P0572,Arm & Hammer Plus OxiClean Laundry Detergent 244oz,Arm & Hammer,Household,16.98,244oz detergent
+P0573,Great Value Sliced Carrots 29oz,Great Value,Canned Goods,0.98,29oz sliced carrots
+P0574,Quaker Chewy Yogurt Granola Bars 10ct,Quaker,Snacks,4.68,10ct yogurt granola bars
+P0575,Oscar Mayer Smoked Ham 32oz,Oscar Mayer,Meat,9.98,32oz smoked ham
+P0576,Marketside Organic Raspberries 12oz,Marketside,Produce,5.98,12oz organic raspberries
+P0577,Great Value Natural Crunchy Almond Butter 24oz,Great Value,Pantry,11.98,24oz crunchy almond butter
+P0578,Smucker's Natural Creamy Peanut Butter 26oz,Smucker's,Pantry,4.98,26oz creamy peanut butter
+P0579,Great Value Barbecue Potato Chips 16oz,Great Value,Snacks,2.98,16oz barbecue chips
+P0580,Mainstays 2.7L Electric Kettle,Mainstays,Home Goods,24.88,2.7L electric kettle
+P0581,Great Value Organic Large White Eggs 24ct,Great Value,Dairy,7.98,24ct organic white eggs
+P0582,Marketside Organic Rainbow Baby Carrots 24oz,Marketside,Produce,4.98,24oz rainbow carrots
+P0583,Great Value 2% Reduced Fat Milk 1.5 gal,Great Value,Dairy,4.78,1.5 gallons 2% milk
+P0584,Tyson Chicken Nuggets 64oz,Tyson,Meat,13.98,64oz chicken nuggets
+P0585,Oscar Mayer Selects Uncured Turkey Franks 28oz,Oscar Mayer,Meat,7.98,28oz turkey franks
+P0586,Land O Lakes Cinnamon Sugar Butter Spread 13oz,Land O Lakes,Dairy,5.98,13oz cinnamon sugar butter
+P0587,Great Value Pepper Jack Cheese Block 16oz,Great Value,Dairy,3.98,16oz pepper jack cheese block
+P0588,Marketside Organic Green Onions 2 Bunch,Marketside,Produce,2.98,2 bunches green onions
+P0589,Great Value Yukon Gold Potatoes 6lb,Great Value,Produce,5.98,6lb Yukon Gold potatoes
+P0590,Mainstays 16-Piece Nonstick Cookware Set,Mainstays,Home Goods,39.88,16-piece cookware set
+P0591,Equate Beauty Oil-Free Acne Wash 12oz,Equate,Personal Care,6.97,12oz acne wash
+P0592,Clorox Toilet Bowl Cleaner with Bleach 48oz,Clorox,Household,4.98,48oz toilet bowl cleaner
+P0593,Great Value Apple Cider 128oz,Great Value,Beverages,5.98,128oz apple cider
+P0594,Coca-Cola Vanilla Soda 24pk 12oz Cans,Coca-Cola,Beverages,10.98,24-pack Vanilla Coke
+P0595,Great Value Shells & Cheese 24oz,Great Value,Pantry,3.98,24oz shells & cheese
+P0596,Huggies Special Delivery Diapers Size 2 70ct,Huggies,Baby,24.94,70ct diapers
+P0597,Crayola Washable Broad Line Markers 20ct,Crayola,School Supplies,3.97,20ct broad line markers
+P0598,Great Value Rising Crust Pepperoni Pizza 28.1oz,Great Value,Frozen,4.98,large pepperoni pizza
+P0599,Colgate Enamel Health Whitening Toothpaste 8oz,Colgate,Personal Care,5.96,8oz enamel health toothpaste
+P0600,Mainstays 20-Piece Mixing Bowl Set,Mainstays,Home Goods,19.88,20-piece mixing bowl set
+ProductID,Item Name,Brand,Category,Base Price,Description
+P0601,Great Value Cage Free Large Brown Eggs 18ct,Great Value,Dairy,4.48,18ct cage free brown eggs
+P0602,Marketside Organic Baby Spinach 11oz,Marketside,Produce,4.98,11oz organic baby spinach
+P0603,Great Value Unsweetened Almond Milk 0.5 gal,Great Value,Dairy,2.68,0.5 gallon unsweetened almond milk
+P0604,Tyson Blackened Chicken Breast Strips 20oz,Tyson,Meat,7.98,20oz blackened chicken breast strips
+P0605,Oscar Mayer Hardwood Smoked Bacon 24oz,Oscar Mayer,Meat,7.98,24oz smoked bacon
+P0606,Land O Lakes Butter with Olive Oil & Sea Salt 24oz,Land O Lakes,Dairy,6.98,24oz butter with olive oil
+P0607,Great Value Cheddar Jack Cheese Slices 16ct,Great Value,Dairy,2.22,16ct cheddar jack cheese slices
+P0608,Marketside Organic Strawberries 12oz,Marketside,Produce,3.98,12oz organic strawberries
+P0609,Great Value Golden Potatoes 3lb,Great Value,Produce,2.98,3lb golden potatoes
+P0610,Mainstays 6-Piece Glass Mixing Bowl Set,Mainstays,Home Goods,12.88,6-piece glass mixing bowl set
+P0611,Equate Beauty Foaming Facial Cleanser 13.6oz,Equate,Personal Care,6.97,13.6oz foaming facial cleanser
+P0612,Clorox Scentiva Toilet Cleaning Gel 24oz,Clorox,Household,3.98,24oz toilet cleaning gel
+P0613,Great Value Cranberry Grape Juice 64oz,Great Value,Beverages,2.18,64oz cranberry grape juice
+P0614,Pepsi Mango Soda 12pk 12oz Cans,Pepsi,Beverages,5.98,12-pack Mango Pepsi
+P0615,Great Value Penne Pasta 24oz,Great Value,Pantry,1.44,24oz penne pasta
+P0616,Pampers Swaddlers Diapers Size 1 96ct,Pampers,Baby,24.94,96ct diapers
+P0617,Crayola Washable Super Tips Markers 50ct,Crayola,School Supplies,7.97,50ct super tips markers
+P0618,Great Value Rising Crust Canadian Bacon Pizza 27.5oz,Great Value,Frozen,3.98,Frozen Canadian bacon pizza
+P0619,Colgate Total Whitening Toothpaste 8oz,Colgate,Personal Care,5.96,8oz whitening toothpaste
+P0620,Mainstays 5-Piece Nonstick Bakeware Set,Mainstays,Home Goods,19.88,5-piece bakeware set
+P0621,Marketside Organic Romaine Lettuce 6ct,Marketside,Produce,6.98,6ct organic romaine lettuce
+P0622,Arm & Hammer Plus OxiClean Odor Blasters 61.25oz,Arm & Hammer,Household,4.98,61.25oz odor blasters detergent
+P0623,Great Value Mixed Vegetables 24oz,Great Value,Frozen,1.98,24oz frozen mixed vegetables
+P0624,Quaker Chewy Chocolate Chip Granola Bars 40ct,Quaker,Snacks,6.98,40ct granola bars
+P0625,Oscar Mayer Turkey Bacon 24oz,Oscar Mayer,Meat,7.98,24oz turkey bacon
+P0626,Marketside Organic Mango Chunks 20oz,Marketside,Produce,6.98,20oz organic mango chunks
+P0627,Great Value Natural Almond Butter 24oz,Great Value,Pantry,11.98,24oz natural almond butter
+P0628,Smucker's Natural Orange Marmalade 27.25oz,Smucker's,Pantry,4.98,27.25oz orange marmalade
+P0629,Great Value Classic Potato Chips 16oz,Great Value,Snacks,2.98,16oz classic potato chips
+P0630,Mainstays 5-Tier Shelf,Mainstays,Home Goods,29.88,5-tier shelf
+P0631,Great Value Cage Free Large Brown Eggs 24ct,Great Value,Dairy,5.98,24ct cage free brown eggs
+P0632,Marketside Organic Baby Spinach 16oz,Marketside,Produce,5.98,16oz organic baby spinach
+P0633,Great Value Almond Milk Vanilla 0.5 gal,Great Value,Dairy,2.68,0.5 gallon vanilla almond milk
+P0634,Tyson Grilled Chicken Breast Fillets 32oz,Tyson,Meat,11.98,32oz grilled chicken breast fillets
+P0635,Oscar Mayer Selects Natural Uncured Beef Franks 28oz,Oscar Mayer,Meat,8.98,28oz natural beef franks
+P0636,Land O Lakes Butter with Olive Oil 24oz,Land O Lakes,Dairy,6.98,24oz butter with olive oil
+P0637,Great Value Colby Jack Cheese Block 32oz,Great Value,Dairy,7.98,32oz colby jack cheese block
+P0638,Marketside Organic Black Seedless Grapes 4lb,Marketside,Produce,11.98,4lb organic black grapes
+P0639,Great Value Sweet Potatoes 10lb,Great Value,Produce,6.98,10lb sweet potatoes
+P0640,Mainstays 12-Piece Towel Set,Mainstays,Home Goods,24.88,12-piece towel set
+P0641,Equate Beauty Moisturizing Lotion 40.6oz,Equate,Personal Care,5.97,40.6oz moisturizing lotion
+P0642,Clorox Scentiva Multi-Surface Cleaner 48oz,Clorox,Household,6.98,48oz multi-surface cleaner
+P0643,Great Value Cranberry Apple Juice 128oz,Great Value,Beverages,4.18,128oz cranberry apple juice
+P0644,Pepsi Caffeine Free Soda 24pk 12oz Cans,Pepsi,Beverages,10.98,24-pack caffeine free Pepsi
+P0645,Great Value Fettuccine Pasta 24oz,Great Value,Pantry,1.44,24oz fettuccine pasta
+P0646,Huggies Natural Care Wipes 1152ct,Huggies,Baby,29.97,1152ct baby wipes
+P0647,Crayola Washable Markers 40ct,Crayola,School Supplies,7.97,40ct washable markers
+P0648,Great Value Rising Crust Veggie Pizza 55oz,Great Value,Frozen,7.98,2-pack veggie pizza
+P0649,Colgate Max Fresh Whitening Toothpaste 12oz,Colgate,Personal Care,5.96,12oz max fresh toothpaste
+P0650,Mainstays 10-Piece Kitchen Utensil Set,Mainstays,Home Goods,12.88,10-piece kitchen utensil set
+P0651,Marketside Organic Roma Tomatoes 4lb,Marketside,Produce,7.98,4lb organic roma tomatoes
+P0652,Arm & Hammer Baking Soda 64oz,Arm & Hammer,Pantry,3.98,64oz baking soda
+P0653,Great Value Whole Green Beans 29oz,Great Value,Canned Goods,0.98,29oz whole green beans
+P0654,Quaker Chewy S'mores Granola Bars 16ct,Quaker,Snacks,4.68,16ct s'mores granola bars
+P0655,Oscar Mayer Deli Fresh Honey Ham 18oz,Oscar Mayer,Meat,7.98,18oz honey ham
+P0656,Marketside Organic Raspberries 24oz,Marketside,Produce,9.98,24oz organic raspberries
+P0657,Great Value Creamy Almond Butter 24oz,Great Value,Pantry,11.98,24oz creamy almond butter
+P0658,Smucker's Natural Red Raspberry Fruit Spread 27.25oz,Smucker's,Pantry,4.98,27.25oz raspberry fruit spread
+P0659,Great Value Classic Rippled Potato Chips 16oz,Great Value,Snacks,2.98,16oz rippled potato chips
+P0660,Mainstays 24-Piece Cookware Set,Mainstays,Home Goods,49.88,24-piece cookware set
+P0661,Great Value Large Brown Eggs 36ct,Great Value,Dairy,6.98,36ct brown eggs
+P0662,Marketside Organic Grape Tomatoes 32oz,Marketside,Produce,7.98,32oz organic grape tomatoes
+P0663,Great Value Lactose Free 2% Milk 1 gal,Great Value,Dairy,4.98,1 gallon lactose free 2% milk
+P0664,Tyson All Natural Chicken Thighs 5lb,Tyson,Meat,9.98,5lb chicken thighs
+P0665,Oscar Mayer Selects Uncured Angus Beef Hot Dogs 28oz,Oscar Mayer,Meat,8.98,28oz angus beef hot dogs
+P0666,Land O Lakes Spreadable Butter with Olive Oil 24oz,Land O Lakes,Dairy,6.98,24oz spreadable butter
+P0667,Great Value Pepper Jack Cheese Slices 24ct,Great Value,Dairy,4.44,24ct pepper jack cheese slices
+P0668,Marketside Organic Green Seedless Grapes 4lb,Marketside,Produce,11.98,4lb organic green grapes
+P0669,Great Value Petite Gold Potatoes 6lb,Great Value,Produce,5.98,6lb petite gold potatoes
+P0670,Mainstays 32-Piece Dinnerware Set,Mainstays,Home Goods,39.88,32-piece dinnerware set
+P0671,Equate Beauty Oil-Free Moisturizer 8oz,Equate,Personal Care,6.97,8oz oil-free moisturizer
+P0672,Clorox Scentiva Disinfecting Spray 64oz,Clorox,Household,6.98,64oz disinfecting spray
+P0673,Great Value Apple Grape Juice 128oz,Great Value,Beverages,4.18,128oz apple grape juice
+P0674,Coca-Cola Orange Vanilla Soda 24pk 12oz Cans,Coca-Cola,Beverages,10.98,24-pack Orange Vanilla Coke
+P0675,Great Value Linguine Pasta 24oz,Great Value,Pantry,1.44,24oz linguine pasta
+P0676,Pampers Cruisers Diapers Size 7 76ct,Pampers,Baby,24.94,76ct diapers
+P0677,Crayola Washable Colored Pencils 48ct,Crayola,School Supplies,7.97,48ct washable colored pencils
+P0678,Great Value Rising Crust Sausage Pizza 55oz,Great Value,Frozen,7.98,2-pack sausage pizza
+P0679,Colgate Total Advanced Deep Clean Toothpaste 8oz,Colgate,Personal Care,5.96,8oz deep clean toothpaste
+P0680,Mainstays 8-Piece Canister Set,Mainstays,Home Goods,19.88,8-piece canister set
+P0681,Marketside Organic Baby Arugula 10oz,Marketside,Produce,6.98,10oz organic baby arugula
+P0682,Arm & Hammer Plus OxiClean Fresh Scent 122.5oz,Arm & Hammer,Household,8.98,122.5oz fresh scent detergent
+P0683,Great Value Diced Tomatoes 29oz,Great Value,Canned Goods,0.98,29oz diced tomatoes
+P0684,Quaker Chewy Granola Bars Variety Pack 48ct,Quaker,Snacks,10.98,48ct granola bars
+P0685,Oscar Mayer Deli Fresh Rotisserie Chicken Breast 18oz,Oscar Mayer,Meat,7.98,18oz rotisserie chicken breast
+P0686,Marketside Organic Strawberries 48oz,Marketside,Produce,13.98,48oz organic strawberries
+P0687,Great Value Natural Crunchy Peanut Butter 40oz,Great Value,Pantry,3.47,40oz natural crunchy peanut butter
+P0688,Smucker's Natural Strawberry Fruit Spread 34.5oz,Smucker's,Pantry,6.98,34.5oz strawberry fruit spread
+P0689,Great Value Sour Cream & Onion Potato Chips 16oz,Great Value,Snacks,2.98,16oz sour cream & onion chips
+P0690,Mainstays 16-Piece Glass Set,Mainstays,Home Goods,19.88,16-piece glass set
+P0691,Great Value Large White Eggs 72ct,Great Value,Dairy,11.98,72ct large white eggs
+P0692,Marketside Organic Cherry Tomatoes 20oz,Marketside,Produce,5.98,20oz organic cherry tomatoes
+P0693,Great Value Lactose Free Fat Free Milk 1 gal,Great Value,Dairy,4.98,1 gallon lactose free fat free milk
+P0694,Tyson Grilled & Ready Chicken Breast Strips 44oz,Tyson,Meat,14.98,44oz grilled chicken strips
+P0695,Oscar Mayer Selects Natural Uncured Turkey Franks 28oz,Oscar Mayer,Meat,7.98,28oz natural turkey franks
+P0696,Land O Lakes Whipped Butter 30oz,Land O Lakes,Dairy,7.98,30oz whipped butter
+P0697,Great Value Provolone Cheese Slices 24ct,Great Value,Dairy,4.44,24ct provolone cheese slices
+P0698,Marketside Organic Blueberries 36oz,Marketside,Produce,13.98,36oz organic blueberries
+P0699,Great Value Yukon Gold Potatoes 20lb,Great Value,Produce,12.98,20lb Yukon Gold potatoes
+P0700,Mainstays 20-Piece Stainless Steel Mixing Bowl Set,Mainstays,Home Goods,29.88,20-piece mixing bowl set
+P0701,Equate Beauty Oil-Free Eye Makeup Remover 8oz,Equate,Personal Care,6.97,8oz oil-free eye makeup remover
+P0702,Clorox Ultra Clean Toilet Tablets 24ct,Clorox,Household,13.98,24ct toilet tablets
+P0703,Great Value Tomato Juice 128oz,Great Value,Beverages,5.98,128oz tomato juice
+P0704,Coca-Cola Diet Soda 36pk 12oz Cans,Coca-Cola,Beverages,15.98,36-pack Diet Coke
+P0705,Great Value Spaghetti Pasta 48oz,Great Value,Pantry,2.88,48oz spaghetti pasta
+P0706,Huggies Little Movers Diapers Size 6 44ct,Huggies,Baby,24.94,44ct diapers
+P0707,Crayola Construction Paper 240 Sheets,Crayola,School Supplies,4.97,240 sheets construction paper
+P0708,Great Value Rising Crust Pepperoni Pizza 41.5oz,Great Value,Frozen,6.98,2-pack pepperoni pizza
+P0709,Colgate Optic White Toothpaste 10oz,Colgate,Personal Care,7.96,10oz optic white toothpaste
+P0710,Mainstays 24-Piece Towel Set,Mainstays,Home Goods,44.88,24-piece towel set
+P0711,Marketside Organic Romaine Hearts 12ct,Marketside,Produce,14.98,12ct organic romaine hearts
+P0712,Arm & Hammer Super Washing Soda 64oz,Arm & Hammer,Household,5.98,64oz washing soda
+P0713,Great Value Whole Kernel Corn 58oz,Great Value,Canned Goods,1.98,58oz whole kernel corn
+P0714,Quaker Chewy Chocolate Chip Granola Bars 72ct,Quaker,Snacks,19.98,72ct granola bars
+P0715,Oscar Mayer Deli Fresh Oven Roasted Turkey 32oz,Oscar Mayer,Meat,12.98,32oz oven roasted turkey
+P0716,Marketside Organic Strawberries 64oz,Marketside,Produce,17.98,64oz organic strawberries
+P0717,Great Value Natural Creamy Peanut Butter 80oz,Great Value,Pantry,6.98,80oz natural creamy peanut butter
+P0718,Smucker's Natural Strawberry Fruit Spread 68oz,Smucker's,Pantry,12.98,68oz strawberry fruit spread
+P0719,Great Value Original Potato Chips 32oz,Great Value,Snacks,5.98,32oz potato chips
+P0720,Mainstays 40-Piece Flatware Set,Mainstays,Home Goods,19.88,40-piece flatware set
+P0721,Great Value Large White Eggs 120ct,Great Value,Dairy,19.98,120ct large white eggs
+P0722,Marketside Organic Baby Carrots 64oz,Marketside,Produce,8.98,64oz organic baby carrots
+P0723,Great Value 2% Reduced Fat Milk 4 gal,Great Value,Dairy,12.76,4 gallons 2% milk
+P0724,Tyson All Natural Chicken Breast Tenderloins 5lb,Tyson,Meat,15.98,5lb chicken tenderloins
+P0725,Oscar Mayer Selects Natural Uncured Angus Beef Franks 56oz,Oscar Mayer,Meat,16.98,56oz angus beef franks
+P0726,Land O Lakes Butter with Canola Oil 60oz,Land O Lakes,Dairy,15.98,60oz butter with canola oil
+P0727,Great Value Cheddar Cheese Slices 48ct,Great Value,Dairy,8.88,48ct cheddar cheese slices
+P0728,Marketside Organic Red Grapes 8lb,Marketside,Produce,23.98,8lb organic red grapes
+P0729,Great Value Red Potatoes 40lb,Great Value,Produce,24.98,40lb red potatoes
+P0730,Mainstays 40-Piece Dinnerware Set,Mainstays,Home Goods,49.88,40-piece dinnerware set
+P0731,Equate Beauty Gentle Skin Cleanser 64oz,Equate,Personal Care,14.98,64oz skin cleanser
+P0732,Clorox Clean-Up Cleaner + Bleach 128oz,Clorox,Household,13.98,128oz cleaner + bleach
+P0733,Great Value Pineapple Juice 184oz,Great Value,Beverages,7.98,184oz pineapple juice
+P0734,Coca-Cola Caffeine Free Soda 36pk 12oz Cans,Coca-Cola,Beverages,15.98,36-pack caffeine free Coke
+P0735,Great Value Penne Rigate Pasta 48oz,Great Value,Pantry,2.88,48oz penne rigate
+P0736,Huggies Little Snugglers Diapers Size 2 168ct,Huggies,Baby,39.94,168ct diapers
+P0737,Crayola Washable Watercolors 48ct,Crayola,School Supplies,9.97,48ct watercolors
+P0738,Great Value Rising Crust Cheese Pizza 55oz,Great Value,Frozen,7.98,2-pack cheese pizza
+P0739,Colgate Baking Soda & Peroxide Whitening Toothpaste 16oz,Colgate,Personal Care,7.96,16oz whitening toothpaste
+P0740,Mainstays 24-Cube Organizer,Mainstays,Home Goods,89.88,24-cube storage organizer
+P0741,Marketside Organic Baby Spinach 40oz,Marketside,Produce,15.98,40oz organic baby spinach
+P0742,Arm & Hammer Sensitive Skin Laundry Detergent 244oz,Arm & Hammer,Household,16.98,244oz detergent
+P0743,Great Value Sweet Corn 58oz,Great Value,Canned Goods,1.98,58oz sweet corn
+P0744,Quaker Chewy Dipps Granola Bars 32ct,Quaker,Snacks,9.68,32ct granola bars
+P0745,Oscar Mayer Oven Roasted Turkey Breast 64oz,Oscar Mayer,Meat,24.98,64oz oven roasted turkey
+P0746,Marketside Organic Blackberries 24oz,Marketside,Produce,9.98,24oz organic blackberries
+P0747,Great Value Natural Crunchy Almond Butter 48oz,Great Value,Pantry,23.98,48oz crunchy almond butter
+P0748,Smucker's Natural Peanut Butter 52oz,Smucker's,Pantry,8.98,52oz natural peanut butter
+P0749,Great Value Cheddar & Sour Cream Potato Chips 32oz,Great Value,Snacks,5.98,32oz cheddar & sour cream chips
+P0750,Mainstays 8-Slice Toaster,Mainstays,Home Goods,34.88,8-slice toaster
+P0751,Great Value Extra Large White Eggs 36ct,Great Value,Dairy,6.98,36ct extra large eggs
+P0752,Marketside Organic Mini Sweet Peppers 64oz,Marketside,Produce,12.98,64oz mini sweet peppers
+P0753,Great Value Skim Milk 4 gal,Great Value,Dairy,12.76,4 gallons skim milk
+P0754,Tyson Chicken Tenders 100oz,Tyson,Meat,27.98,100oz chicken tenders
+P0755,Oscar Mayer Thick Cut Bologna 64oz,Oscar Mayer,Meat,15.98,64oz thick cut bologna
+P0756,Land O Lakes Butter with Canola Oil 60oz,Land O Lakes,Dairy,15.98,60oz butter with canola oil
+P0757,Great Value Swiss Cheese Slices 48ct,Great Value,Dairy,8.88,48ct Swiss cheese slices
+P0758,Marketside Organic Green Grapes 8lb,Marketside,Produce,23.98,8lb organic green grapes
+P0759,Great Value Petite Red Potatoes 12lb,Great Value,Produce,11.98,12lb petite red potatoes
+P0760,Mainstays 48-Piece Food Storage Set,Mainstays,Home Goods,29.88,48-piece food storage set
+P0761,Equate Beauty Nighttime Soothing Makeup Remover Towelettes 160ct,Equate,Personal Care,13.97,160ct makeup remover wipes
+P0762,Clorox Scentiva Disinfecting Wipes 280ct,Clorox,Household,17.98,280ct disinfecting wipes
+P0763,Great Value Grape Juice 256oz,Great Value,Beverages,8.98,256oz grape juice
+P0764,Pepsi Wild Cherry 36pk 12oz Cans,Pepsi,Beverages,15.98,36-pack Wild Cherry Pepsi
+P0765,Great Value Bowtie Pasta 48oz,Great Value,Pantry,2.88,48oz bowtie pasta
+P0766,Pampers Baby Dry Diapers Size 7 92ct,Pampers,Baby,24.94,92ct diapers
+P0767,Crayola Washable Glue Sticks 24ct,Crayola,School Supplies,9.97,24ct glue sticks
+P0768,Great Value Rising Crust Three Meat Pizza 116.4oz,Great Value,Frozen,17.98,4-pack three meat pizza
+P0769,Colgate Kids Cavity Protection Toothpaste 18.4oz,Colgate,Personal Care,9.96,4-pack kids toothpaste
+P0770,Mainstays 32-Piece Towel Set,Mainstays,Home Goods,64.88,32-piece towel set
+P0771,Marketside Organic Roma Tomatoes 8lb,Marketside,Produce,15.98,8lb organic roma tomatoes
+P0772,Arm & Hammer Plus OxiClean Laundry Detergent 488oz,Arm & Hammer,Household,32.98,488oz detergent
+P0773,Great Value Sliced Carrots 58oz,Great Value,Canned Goods,1.98,58oz sliced carrots
+P0774,Quaker Chewy Yogurt Granola Bars 20ct,Quaker,Snacks,9.68,20ct yogurt granola bars
+P0775,Oscar Mayer Smoked Ham 64oz,Oscar Mayer,Meat,19.98,64oz smoked ham
+P0776,Marketside Organic Raspberries 24oz,Marketside,Produce,9.98,24oz organic raspberries
+P0777,Great Value Natural Crunchy Almond Butter 48oz,Great Value,Pantry,23.98,48oz crunchy almond butter
+P0778,Smucker's Natural Creamy Peanut Butter 52oz,Smucker's,Pantry,8.98,52oz creamy peanut butter
+P0779,Great Value Barbecue Potato Chips 32oz,Great Value,Snacks,5.98,32oz barbecue chips
+P0780,Mainstays 5.4L Electric Kettle,Mainstays,Home Goods,44.88,5.4L electric kettle
+P0781,Great Value Organic Large White Eggs 48ct,Great Value,Dairy,15.98,48ct organic white eggs
+P0782,Marketside Organic Rainbow Baby Carrots 48oz,Marketside,Produce,9.98,48oz rainbow carrots
+P0783,Great Value 2% Reduced Fat Milk 3 gal,Great Value,Dairy,9.57,3 gallons 2% milk
+P0784,Tyson Chicken Nuggets 128oz,Tyson,Meat,27.98,128oz chicken nuggets
+P0785,Oscar Mayer Selects Uncured Turkey Franks 56oz,Oscar Mayer,Meat,15.98,56oz turkey franks
+P0786,Land O Lakes Cinnamon Sugar Butter Spread 26oz,Land O Lakes,Dairy,11.98,26oz cinnamon sugar butter
+P0787,Great Value Pepper Jack Cheese Block 32oz,Great Value,Dairy,7.98,32oz pepper jack cheese block
+P0788,Marketside Organic Green Onions 4 Bunch,Marketside,Produce,5.98,4 bunches green onions
+P0789,Great Value Yukon Gold Potatoes 12lb,Great Value,Produce,11.98,12lb Yukon Gold potatoes
+P0790,Mainstays 32-Piece Nonstick Cookware Set,Mainstays,Home Goods,59.88,32-piece cookware set
+P0791,Equate Beauty Oil-Free Acne Wash 24oz,Equate,Personal Care,13.97,24oz acne wash
+P0792,Clorox Toilet Bowl Cleaner with Bleach 96oz,Clorox,Household,9.98,96oz toilet bowl cleaner
+P0793,Great Value Apple Cider 256oz,Great Value,Beverages,11.98,256oz apple cider
+P0794,Coca-Cola Vanilla Soda 48pk 12oz Cans,Coca-Cola,Beverages,21.98,48-pack Vanilla Coke
+P0795,Great Value Shells & Cheese 48oz,Great Value,Pantry,7.98,48oz shells & cheese
+P0796,Huggies Special Delivery Diapers Size 3 140ct,Huggies,Baby,39.94,140ct diapers
+P0797,Crayola Washable Broad Line Markers 40ct,Crayola,School Supplies,7.97,40ct broad line markers
+P0798,Great Value Rising Crust Pepperoni Pizza 56.2oz,Great Value,Frozen,8.98,2-pack pepperoni pizza
+P0799,Colgate Enamel Health Whitening Toothpaste 16oz,Colgate,Personal Care,11.96,16oz enamel health toothpaste
+P0800,Mainstays 40-Piece Mixing Bowl Set,Mainstays,Home Goods,39.88,40-piece mixing bowl set
+ProductID,Item Name,Brand,Category,Base Price,Description
+P0801,Great Value Cage Free Large Brown Eggs 36ct,Great Value,Dairy,8.98,36ct cage free brown eggs
+P0802,Marketside Organic Baby Spinach 20oz,Marketside,Produce,7.98,20oz organic baby spinach
+P0803,Great Value Vanilla Almond Milk 0.5 gal,Great Value,Dairy,2.68,0.5 gallon vanilla almond milk
+P0804,Tyson Southern Style Chicken Breast Tenderloins 25oz,Tyson,Meat,8.98,25oz southern style chicken tenderloins
+P0805,Oscar Mayer Thick Cut Bacon 24oz,Oscar Mayer,Meat,8.98,24oz thick cut bacon
+P0806,Land O Lakes Butter with Olive Oil & Sea Salt 48oz,Land O Lakes,Dairy,13.98,48oz butter with olive oil
+P0807,Great Value Cheddar Jack Cheese Slices 32ct,Great Value,Dairy,4.44,32ct cheddar jack cheese slices
+P0808,Marketside Organic Strawberries 40oz,Marketside,Produce,13.98,40oz organic strawberries
+P0809,Great Value Golden Potatoes 6lb,Great Value,Produce,5.98,6lb golden potatoes
+P0810,Mainstays 12-Piece Glass Mixing Bowl Set,Mainstays,Home Goods,22.88,12-piece glass mixing bowl set
+P0811,Equate Beauty Foaming Facial Cleanser 27.2oz,Equate,Personal Care,13.97,27.2oz foaming facial cleanser
+P0812,Clorox Scentiva Toilet Cleaning Gel 48oz,Clorox,Household,6.98,48oz toilet cleaning gel
+P0813,Great Value Cranberry Grape Juice 128oz,Great Value,Beverages,4.18,128oz cranberry grape juice
+P0814,Pepsi Mango Soda 24pk 12oz Cans,Pepsi,Beverages,10.98,24-pack Mango Pepsi
+P0815,Great Value Penne Pasta 48oz,Great Value,Pantry,2.88,48oz penne pasta
+P0816,Pampers Swaddlers Diapers Size 2 186ct,Pampers,Baby,39.94,186ct diapers
+P0817,Crayola Washable Super Tips Markers 100ct,Crayola,School Supplies,14.97,100ct super tips markers
+P0818,Great Value Rising Crust Canadian Bacon Pizza 55oz,Great Value,Frozen,7.98,2-pack Canadian bacon pizza
+P0819,Colgate Total Whitening Toothpaste 16oz,Colgate,Personal Care,11.96,16oz whitening toothpaste
+P0820,Mainstays 10-Piece Nonstick Bakeware Set,Mainstays,Home Goods,29.88,10-piece bakeware set
+P0821,Marketside Organic Romaine Lettuce 12ct,Marketside,Produce,13.98,12ct organic romaine lettuce
+P0822,Arm & Hammer Plus OxiClean Odor Blasters 122.5oz,Arm & Hammer,Household,8.98,122.5oz odor blasters detergent
+P0823,Great Value Mixed Vegetables 48oz,Great Value,Frozen,3.98,48oz frozen mixed vegetables
+P0824,Quaker Chewy Chocolate Chip Granola Bars 80ct,Quaker,Snacks,15.98,80ct granola bars
+P0825,Oscar Mayer Turkey Bacon 48oz,Oscar Mayer,Meat,14.98,48oz turkey bacon
+P0826,Marketside Organic Mango Chunks 40oz,Marketside,Produce,13.98,40oz organic mango chunks
+P0827,Great Value Natural Almond Butter 48oz,Great Value,Pantry,23.98,48oz natural almond butter
+P0828,Smucker's Natural Orange Marmalade 34.5oz,Smucker's,Pantry,6.98,34.5oz orange marmalade
+P0829,Great Value Classic Potato Chips 32oz,Great Value,Snacks,5.98,32oz classic potato chips
+P0830,Mainstays 10-Tier Shelf,Mainstays,Home Goods,44.88,10-tier shelf
+P0831,Great Value Cage Free Large Brown Eggs 48ct,Great Value,Dairy,11.98,48ct cage free brown eggs
+P0832,Marketside Organic Baby Spinach 32oz,Marketside,Produce,8.98,32oz organic baby spinach
+P0833,Great Value Almond Milk Vanilla 1 gal,Great Value,Dairy,4.98,1 gallon vanilla almond milk
+P0834,Tyson Grilled Chicken Breast Fillets 64oz,Tyson,Meat,22.98,64oz grilled chicken breast fillets
+P0835,Oscar Mayer Selects Natural Uncured Beef Franks 56oz,Oscar Mayer,Meat,16.98,56oz natural beef franks
+P0836,Land O Lakes Butter with Olive Oil 48oz,Land O Lakes,Dairy,13.98,48oz butter with olive oil
+P0837,Great Value Colby Jack Cheese Block 64oz,Great Value,Dairy,15.98,64oz colby jack cheese block
+P0838,Marketside Organic Black Seedless Grapes 8lb,Marketside,Produce,22.98,8lb organic black grapes
+P0839,Great Value Sweet Potatoes 20lb,Great Value,Produce,12.98,20lb sweet potatoes
+P0840,Mainstays 24-Piece Towel Set,Mainstays,Home Goods,44.88,24-piece towel set
+P0841,Equate Beauty Moisturizing Lotion 81.2oz,Equate,Personal Care,11.97,81.2oz moisturizing lotion
+P0842,Clorox Scentiva Multi-Surface Cleaner 96oz,Clorox,Household,13.98,96oz multi-surface cleaner
+P0843,Great Value Cranberry Apple Juice 256oz,Great Value,Beverages,8.98,256oz cranberry apple juice
+P0844,Pepsi Caffeine Free Soda 48pk 12oz Cans,Pepsi,Beverages,21.98,48-pack caffeine free Pepsi
+P0845,Great Value Fettuccine Pasta 48oz,Great Value,Pantry,2.88,48oz fettuccine pasta
+P0846,Huggies Natural Care Wipes 2304ct,Huggies,Baby,49.97,2304ct baby wipes
+P0847,Crayola Washable Markers 80ct,Crayola,School Supplies,14.97,80ct washable markers
+P0848,Great Value Rising Crust Veggie Pizza 110oz,Great Value,Frozen,15.98,4-pack veggie pizza
+P0849,Colgate Max Fresh Whitening Toothpaste 24oz,Colgate,Personal Care,11.96,24oz max fresh toothpaste
+P0850,Mainstays 20-Piece Kitchen Utensil Set,Mainstays,Home Goods,19.88,20-piece kitchen utensil set
+P0851,Marketside Organic Roma Tomatoes 8lb,Marketside,Produce,15.98,8lb organic roma tomatoes
+P0852,Arm & Hammer Baking Soda 128oz,Arm & Hammer,Pantry,7.98,128oz baking soda
+P0853,Great Value Whole Green Beans 58oz,Great Value,Canned Goods,1.98,58oz whole green beans
+P0854,Quaker Chewy S'mores Granola Bars 32ct,Quaker,Snacks,9.68,32ct s'mores granola bars
+P0855,Oscar Mayer Deli Fresh Honey Ham 36oz,Oscar Mayer,Meat,15.98,36oz honey ham
+P0856,Marketside Organic Raspberries 48oz,Marketside,Produce,19.98,48oz organic raspberries
+P0857,Great Value Creamy Almond Butter 48oz,Great Value,Pantry,23.98,48oz creamy almond butter
+P0858,Smucker's Natural Red Raspberry Fruit Spread 54.5oz,Smucker's,Pantry,9.98,54.5oz raspberry fruit spread
+P0859,Great Value Classic Rippled Potato Chips 32oz,Great Value,Snacks,5.98,32oz rippled potato chips
+P0860,Mainstays 48-Piece Cookware Set,Mainstays,Home Goods,99.88,48-piece cookware set
+P0861,Great Value Large Brown Eggs 72ct,Great Value,Dairy,13.98,72ct brown eggs
+P0862,Marketside Organic Grape Tomatoes 64oz,Marketside,Produce,15.98,64oz organic grape tomatoes
+P0863,Great Value Lactose Free 2% Milk 2 gal,Great Value,Dairy,9.98,2 gallons lactose free 2% milk
+P0864,Tyson All Natural Chicken Thighs 10lb,Tyson,Meat,19.98,10lb chicken thighs
+P0865,Oscar Mayer Selects Uncured Angus Beef Hot Dogs 56oz,Oscar Mayer,Meat,16.98,56oz angus beef hot dogs
+P0866,Land O Lakes Spreadable Butter with Olive Oil 48oz,Land O Lakes,Dairy,13.98,48oz spreadable butter
+P0867,Great Value Pepper Jack Cheese Slices 48ct,Great Value,Dairy,8.88,48ct pepper jack cheese slices
+P0868,Marketside Organic Green Seedless Grapes 8lb,Marketside,Produce,23.98,8lb organic green grapes
+P0869,Great Value Petite Gold Potatoes 12lb,Great Value,Produce,11.98,12lb petite gold potatoes
+P0870,Mainstays 64-Piece Dinnerware Set,Mainstays,Home Goods,79.88,64-piece dinnerware set
+P0871,Equate Beauty Oil-Free Moisturizer 16oz,Equate,Personal Care,13.97,16oz oil-free moisturizer
+P0872,Clorox Scentiva Disinfecting Spray 128oz,Clorox,Household,13.98,128oz disinfecting spray
+P0873,Great Value Apple Grape Juice 256oz,Great Value,Beverages,8.98,256oz apple grape juice
+P0874,Coca-Cola Orange Vanilla Soda 48pk 12oz Cans,Coca-Cola,Beverages,21.98,48-pack Orange Vanilla Coke
+P0875,Great Value Linguine Pasta 48oz,Great Value,Pantry,2.88,48oz linguine pasta
+P0876,Pampers Cruisers Diapers Size 8 76ct,Pampers,Baby,24.94,76ct diapers
+P0877,Crayola Washable Colored Pencils 96ct,Crayola,School Supplies,14.97,96ct washable colored pencils
+P0878,Great Value Rising Crust Sausage Pizza 110oz,Great Value,Frozen,15.98,4-pack sausage pizza
+P0879,Colgate Total Advanced Deep Clean Toothpaste 16oz,Colgate,Personal Care,11.96,16oz deep clean toothpaste
+P0880,Mainstays 16-Piece Canister Set,Mainstays,Home Goods,29.88,16-piece canister set
+P0881,Marketside Organic Baby Arugula 20oz,Marketside,Produce,13.98,20oz organic baby arugula
+P0882,Arm & Hammer Plus OxiClean Fresh Scent 244oz,Arm & Hammer,Household,16.98,244oz fresh scent detergent
+P0883,Great Value Diced Tomatoes 58oz,Great Value,Canned Goods,1.98,58oz diced tomatoes
+P0884,Quaker Chewy Granola Bars Variety Pack 96ct,Quaker,Snacks,19.98,96ct granola bars
+P0885,Oscar Mayer Deli Fresh Rotisserie Chicken Breast 36oz,Oscar Mayer,Meat,15.98,36oz rotisserie chicken breast
+P0886,Marketside Organic Strawberries 96oz,Marketside,Produce,34.98,96oz organic strawberries
+P0887,Great Value Natural Crunchy Peanut Butter 80oz,Great Value,Pantry,6.98,80oz natural crunchy peanut butter
+P0888,Smucker's Natural Strawberry Fruit Spread 136oz,Smucker's,Pantry,24.98,136oz strawberry fruit spread
+P0889,Great Value Sour Cream & Onion Potato Chips 32oz,Great Value,Snacks,5.98,32oz sour cream & onion chips
+P0890,Mainstays 32-Piece Glass Set,Mainstays,Home Goods,39.88,32-piece glass set
+P0891,Great Value Large White Eggs 144ct,Great Value,Dairy,23.98,144ct large white eggs
+P0892,Marketside Organic Cherry Tomatoes 40oz,Marketside,Produce,11.98,40oz organic cherry tomatoes
+P0893,Great Value Lactose Free Fat Free Milk 2 gal,Great Value,Dairy,9.98,2 gallons lactose free fat free milk
+P0894,Tyson Grilled & Ready Chicken Breast Strips 88oz,Tyson,Meat,29.98,88oz grilled chicken strips
+P0895,Oscar Mayer Selects Natural Uncured Turkey Franks 56oz,Oscar Mayer,Meat,15.98,56oz natural turkey franks
+P0896,Land O Lakes Whipped Butter 60oz,Land O Lakes,Dairy,15.98,60oz whipped butter
+P0897,Great Value Provolone Cheese Slices 48ct,Great Value,Dairy,8.88,48ct provolone cheese slices
+P0898,Marketside Organic Blueberries 72oz,Marketside,Produce,27.98,72oz organic blueberries
+P0899,Great Value Yukon Gold Potatoes 40lb,Great Value,Produce,24.98,40lb Yukon Gold potatoes
+P0900,Mainstays 40-Piece Stainless Steel Mixing Bowl Set,Mainstays,Home Goods,49.88,40-piece mixing bowl set
+P0901,Equate Beauty Oil-Free Eye Makeup Remover 16oz,Equate,Personal Care,13.97,16oz oil-free eye makeup remover
+P0902,Clorox Ultra Clean Toilet Tablets 48ct,Clorox,Household,27.98,48ct toilet tablets
+P0903,Great Value Tomato Juice 256oz,Great Value,Beverages,11.98,256oz tomato juice
+P0904,Coca-Cola Diet Soda 72pk 12oz Cans,Coca-Cola,Beverages,31.98,72-pack Diet Coke
+P0905,Great Value Spaghetti Pasta 96oz,Great Value,Pantry,5.88,96oz spaghetti pasta
+P0906,Huggies Little Movers Diapers Size 7 44ct,Huggies,Baby,24.94,44ct diapers
+P0907,Crayola Construction Paper 480 Sheets,Crayola,School Supplies,9.97,480 sheets construction paper
+P0908,Great Value Rising Crust Pepperoni Pizza 83oz,Great Value,Frozen,13.98,3-pack pepperoni pizza
+P0909,Colgate Optic White Toothpaste 20oz,Colgate,Personal Care,15.96,20oz optic white toothpaste
+P0910,Mainstays 48-Piece Towel Set,Mainstays,Home Goods,89.88,48-piece towel set
+P0911,Marketside Organic Romaine Hearts 24ct,Marketside,Produce,29.98,24ct organic romaine hearts
+P0912,Arm & Hammer Super Washing Soda 128oz,Arm & Hammer,Household,11.98,128oz washing soda
+P0913,Great Value Whole Kernel Corn 116oz,Great Value,Canned Goods,3.98,116oz whole kernel corn
+P0914,Quaker Chewy Chocolate Chip Granola Bars 144ct,Quaker,Snacks,39.98,144ct granola bars
+P0915,Oscar Mayer Deli Fresh Oven Roasted Turkey 64oz,Oscar Mayer,Meat,24.98,64oz oven roasted turkey
+P0916,Marketside Organic Strawberries 128oz,Marketside,Produce,45.98,128oz organic strawberries
+P0917,Great Value Natural Creamy Peanut Butter 160oz,Great Value,Pantry,12.98,160oz natural creamy peanut butter
+P0918,Smucker's Natural Strawberry Fruit Spread 272oz,Smucker's,Pantry,48.98,272oz strawberry fruit spread
+P0919,Great Value Original Potato Chips 64oz,Great Value,Snacks,11.98,64oz potato chips
+P0920,Mainstays 80-Piece Flatware Set,Mainstays,Home Goods,39.88,80-piece flatware set
+P0921,Great Value Large White Eggs 240ct,Great Value,Dairy,39.98,240ct large white eggs
+P0922,Marketside Organic Baby Carrots 128oz,Marketside,Produce,17.98,128oz organic baby carrots
+P0923,Great Value 2% Reduced Fat Milk 8 gal,Great Value,Dairy,25.52,8 gallons 2% milk
+P0924,Tyson All Natural Chicken Breast Tenderloins 10lb,Tyson,Meat,31.98,10lb chicken tenderloins
+P0925,Oscar Mayer Selects Natural Uncured Angus Beef Franks 112oz,Oscar Mayer,Meat,32.98,112oz angus beef franks
+P0926,Land O Lakes Butter with Canola Oil 120oz,Land O Lakes,Dairy,31.98,120oz butter with canola oil
+P0927,Great Value Cheddar Cheese Slices 96ct,Great Value,Dairy,17.76,96ct cheddar cheese slices
+P0928,Marketside Organic Red Grapes 16lb,Marketside,Produce,47.98,16lb organic red grapes
+P0929,Great Value Red Potatoes 80lb,Great Value,Produce,49.98,80lb red potatoes
+P0930,Mainstays 80-Piece Dinnerware Set,Mainstays,Home Goods,99.88,80-piece dinnerware set
+P0931,Equate Beauty Gentle Skin Cleanser 128oz,Equate,Personal Care,29.98,128oz skin cleanser
+P0932,Clorox Clean-Up Cleaner + Bleach 256oz,Clorox,Household,27.98,256oz cleaner + bleach
+P0933,Great Value Pineapple Juice 368oz,Great Value,Beverages,15.98,368oz pineapple juice
+P0934,Coca-Cola Caffeine Free Soda 72pk 12oz Cans,Coca-Cola,Beverages,31.98,72-pack caffeine free Coke
+P0935,Great Value Penne Rigate Pasta 96oz,Great Value,Pantry,5.88,96oz penne rigate
+P0936,Huggies Little Snugglers Diapers Size 4 336ct,Huggies,Baby,79.94,336ct diapers
+P0937,Crayola Washable Watercolors 96ct,Crayola,School Supplies,19.97,96ct watercolors
+P0938,Great Value Rising Crust Cheese Pizza 110oz,Great Value,Frozen,15.98,4-pack cheese pizza
+P0939,Colgate Baking Soda & Peroxide Whitening Toothpaste 32oz,Colgate,Personal Care,15.96,32oz whitening toothpaste
+P0940,Mainstays 48-Cube Organizer,Mainstays,Home Goods,179.88,48-cube storage organizer
+P0941,Marketside Organic Baby Spinach 80oz,Marketside,Produce,31.98,80oz organic baby spinach
+P0942,Arm & Hammer Sensitive Skin Laundry Detergent 488oz,Arm & Hammer,Household,32.98,488oz detergent
+P0943,Great Value Sweet Corn 116oz,Great Value,Canned Goods,3.98,116oz sweet corn
+P0944,Quaker Chewy Dipps Granola Bars 64ct,Quaker,Snacks,19.36,64ct granola bars
+P0945,Oscar Mayer Oven Roasted Turkey Breast 128oz,Oscar Mayer,Meat,49.98,128oz oven roasted turkey
+P0946,Marketside Organic Blackberries 48oz,Marketside,Produce,19.98,48oz organic blackberries
+P0947,Great Value Natural Crunchy Almond Butter 96oz,Great Value,Pantry,47.98,96oz crunchy almond butter
+P0948,Smucker's Natural Peanut Butter 104oz,Smucker's,Pantry,16.98,104oz natural peanut butter
+P0949,Great Value Cheddar & Sour Cream Potato Chips 64oz,Great Value,Snacks,11.98,64oz cheddar & sour cream chips
+P0950,Mainstays 16-Slice Toaster,Mainstays,Home Goods,69.88,16-slice toaster
+P0951,Great Value Extra Large White Eggs 72ct,Great Value,Dairy,13.98,72ct extra large eggs
+P0952,Marketside Organic Mini Sweet Peppers 128oz,Marketside,Produce,25.98,128oz mini sweet peppers
+P0953,Great Value Skim Milk 8 gal,Great Value,Dairy,25.52,8 gallons skim milk
+P0954,Tyson Chicken Tenders 200oz,Tyson,Meat,55.98,200oz chicken tenders
+P0955,Oscar Mayer Thick Cut Bologna 128oz,Oscar Mayer,Meat,31.98,128oz thick cut bologna
+P0956,Land O Lakes Butter with Canola Oil 120oz,Land O Lakes,Dairy,31.98,120oz butter with canola oil
+P0957,Great Value Swiss Cheese Slices 96ct,Great Value,Dairy,17.76,96ct Swiss cheese slices
+P0958,Marketside Organic Green Grapes 16lb,Marketside,Produce,47.98,16lb organic green grapes
+P0959,Great Value Petite Red Potatoes 24lb,Great Value,Produce,23.98,24lb petite red potatoes
+P0960,Mainstays 96-Piece Food Storage Set,Mainstays,Home Goods,59.88,96-piece food storage set
+P0961,Equate Beauty Nighttime Soothing Makeup Remover Towelettes 320ct,Equate,Personal Care,27.97,320ct makeup remover wipes
+P0962,Clorox Scentiva Disinfecting Wipes 560ct,Clorox,Household,35.98,560ct disinfecting wipes
+P0963,Great Value Grape Juice 512oz,Great Value,Beverages,17.98,512oz grape juice
+P0964,Pepsi Wild Cherry 72pk 12oz Cans,Pepsi,Beverages,31.98,72-pack Wild Cherry Pepsi
+P0965,Great Value Bowtie Pasta 96oz,Great Value,Pantry,5.88,96oz bowtie pasta
+P0966,Pampers Baby Dry Diapers Size 8 92ct,Pampers,Baby,24.94,92ct diapers
+P0967,Crayola Washable Glue Sticks 48ct,Crayola,School Supplies,19.97,48ct glue sticks
+P0968,Great Value Rising Crust Three Meat Pizza 232.8oz,Great Value,Frozen,35.98,8-pack three meat pizza
+P0969,Colgate Kids Cavity Protection Toothpaste 36.8oz,Colgate,Personal Care,19.96,8-pack kids toothpaste
+P0970,Mainstays 64-Piece Towel Set,Mainstays,Home Goods,129.88,64-piece towel set
+P0971,Marketside Organic Roma Tomatoes 16lb,Marketside,Produce,31.98,16lb organic roma tomatoes
+P0972,Arm & Hammer Plus OxiClean Laundry Detergent 976oz,Arm & Hammer,Household,65.98,976oz detergent
+P0973,Great Value Sliced Carrots 116oz,Great Value,Canned Goods,3.98,116oz sliced carrots
+P0974,Quaker Chewy Yogurt Granola Bars 40ct,Quaker,Snacks,19.36,40ct yogurt granola bars
+P0975,Oscar Mayer Smoked Ham 128oz,Oscar Mayer,Meat,39.98,128oz smoked ham
+P0976,Marketside Organic Raspberries 48oz,Marketside,Produce,19.98,48oz organic raspberries
+P0977,Great Value Natural Crunchy Almond Butter 96oz,Great Value,Pantry,47.98,96oz crunchy almond butter
+P0978,Smucker's Natural Creamy Peanut Butter 104oz,Smucker's,Pantry,16.98,104oz creamy peanut butter
+P0979,Great Value Barbecue Potato Chips 64oz,Great Value,Snacks,11.98,64oz barbecue chips
+P0980,Mainstays 10.8L Electric Kettle,Mainstays,Home Goods,89.88,10.8L electric kettle
+P0981,Great Value Organic Large White Eggs 96ct,Great Value,Dairy,31.98,96ct organic white eggs
+P0982,Marketside Organic Rainbow Baby Carrots 96oz,Marketside,Produce,19.98,96oz rainbow carrots
+P0983,Great Value 2% Reduced Fat Milk 6 gal,Great Value,Dairy,19.14,6 gallons 2% milk
+P0984,Tyson Chicken Nuggets 256oz,Tyson,Meat,55.98,256oz chicken nuggets
+P0985,Oscar Mayer Selects Uncured Turkey Franks 112oz,Oscar Mayer,Meat,31.98,112oz turkey franks
+P0986,Land O Lakes Cinnamon Sugar Butter Spread 52oz,Land O Lakes,Dairy,23.98,52oz cinnamon sugar butter
+P0987,Great Value Pepper Jack Cheese Block 64oz,Great Value,Dairy,15.98,64oz pepper jack cheese block
+P0988,Marketside Organic Green Onions 8 Bunch,Marketside,Produce,11.98,8 bunches green onions
+P0989,Great Value Yukon Gold Potatoes 24lb,Great Value,Produce,23.98,24lb Yukon Gold potatoes
+P0990,Mainstays 64-Piece Nonstick Cookware Set,Mainstays,Home Goods,119.88,64-piece cookware set
+P0991,Equate Beauty Oil-Free Acne Wash 48oz,Equate,Personal Care,27.97,48oz acne wash
+P0992,Clorox Toilet Bowl Cleaner with Bleach 192oz,Clorox,Household,19.98,192oz toilet bowl cleaner
+P0993,Great Value Apple Cider 512oz,Great Value,Beverages,23.98,512oz apple cider
+P0994,Coca-Cola Vanilla Soda 96pk 12oz Cans,Coca-Cola,Beverages,43.98,96-pack Vanilla Coke
+P0995,Great Value Shells & Cheese 96oz,Great Value,Pantry,15.98,96oz shells & cheese
+P0996,Huggies Special Delivery Diapers Size 4 140ct,Huggies,Baby,39.94,140ct diapers
+P0997,Crayola Washable Broad Line Markers 80ct,Crayola,School Supplies,14.97,80ct broad line markers
+P0998,Great Value Rising Crust Pepperoni Pizza 112.4oz,Great Value,Frozen,17.98,4-pack pepperoni pizza
+P0999,Colgate Enamel Health Whitening Toothpaste 32oz,Colgate,Personal Care,23.96,32oz enamel health toothpaste
+P1000,Mainstays 80-Piece Mixing Bowl Set,Mainstays,Home Goods,79.88,80-piece mixing bowl set
